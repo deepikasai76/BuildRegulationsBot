@@ -4,8 +4,7 @@ altair==4.0
 pypdf 
 numexpr 
 openai 
-PyPDF2 
-chromadb 
+PyPDF2  
 unstructured 
 tiktoken 
 pymupdf
