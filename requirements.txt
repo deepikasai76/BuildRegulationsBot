@@ -18,4 +18,3 @@ tiktoken
 pymupdf
 pdf2image 
 pdfminer.six
-cv2
