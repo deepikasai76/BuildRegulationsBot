@@ -5,6 +5,7 @@ langchain==0.0.129
 altair==4.0 
 chroma == 3.35.0
 sqlite == 3.35.0
+django
 pypdf 
 python-dotenv 
 numexpr 
