@@ -18,3 +18,4 @@ tiktoken
 pymupdf
 pdf2image 
 pdfminer.six
+pysqlite3-binary
