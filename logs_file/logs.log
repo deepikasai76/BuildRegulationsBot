@@ -1,0 +1,495 @@
+2023-08-26 13:48:19,617:INFO: Logger Created
+2023-08-26 13:54:46,407:INFO: Start answering based on prompt: Hello.
+2023-08-26 13:54:46,408:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 13:54:48,249:INFO: The returned answer is: 
+Sorry, I didn't find the answer to your question in the provided documents. Could you please rephrase your query with more details? I'm here to help you with any questions about Merged Approved Documents of Building Regulations.
+2023-08-26 13:54:48,252:INFO: Answering module over.
+2023-08-26 13:57:18,745:INFO: Start answering based on prompt: Hello.
+2023-08-26 13:57:18,746:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 13:57:20,726:INFO: The returned answer is: 
+Sorry, I didn't find the answer to your question in the provided documents. Could you please rephrase your query with more details? I'm here to help you with any questions about Merged Approved Documents of Building Regulations.
+2023-08-26 13:57:20,734:INFO: Answering module over.
+2023-08-26 14:04:12,190:INFO: Logger Created
+2023-08-26 14:09:12,544:INFO: Start answering based on prompt: Hello.
+2023-08-26 14:09:12,545:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:09:14,782:INFO: The returned answer is: 
+Hello! I'm your personal Bot assistant for answering any questions about Merged Approved Documents of Building Regulations. How can I help you?
+2023-08-26 14:09:14,783:INFO: Answering module over.
+2023-08-26 14:11:26,572:INFO: Start answering based on prompt: Hello!.
+2023-08-26 14:11:26,573:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:11:28,674:INFO: The returned answer is: 
+Hello! I'm your personal Bot assistant for answering any questions about Merged Approved Documents of Building Regulations. I can help you find the answer to your question in the provided documents. Please rephrase your query with more details so I can help you better.
+2023-08-26 14:11:28,676:INFO: Answering module over.
+2023-08-26 14:11:46,594:INFO: Start answering based on prompt: What is this Document about.
+2023-08-26 14:11:46,598:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:11:50,651:INFO: The returned answer is: 
+Answer: This document is one of a series of documents approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to and Regulation 7 of the Building Regulations 2010 (SI 2010/2214) for England and Wales. It provides guidance on meeting the requirements on materials and workmanship imposed by Schedule 1 to the Building Regulations. It also provides guidance on matters such as prevention of the contamination of water, resistance to the passage of sound, access to and use of buildings, and the conservation of fuel and power. At the back of this document is a list of all the documents that have been approved and issued by the Secretary of State for this purpose.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-08-26 14:11:50,655:INFO: Answering module over.
+2023-08-26 14:12:21,093:INFO: Start answering based on prompt: Give the List of Approved Documents ?.
+2023-08-26 14:12:21,095:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:12:27,413:INFO: The returned answer is: 
+Answer: The list of approved documents is as follows: 
+
+- Approved Document M Access to and use of buildings Volume 1: Dwellings Volume 2: Buildings other than dwellings
+- Approved Document P Electrical safety – Dwellings
+- Approved Document A Structure
+- Approved Document Q Security – Dwellings
+- Approved Document B Fire safety Volume 1: Dwellings Volume 2: Buildings other than dwellings
+- Approved Document R Physical infrastructure for high-speed electronic communications networks
+- Approved Document C Site preparation and resistance to contaminants and moisture
+- Approved Document 7 Materials and workmanship
+- Approved Document D Toxic substances
+- Approved Document E Resistance to the passage of sound
+- Approved Document F Ventilation
+- Approved Document G Sanitation, hot water safety and water efficiency
+
+An approved document is a publication that has been approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to and Regulation 7 of the Building Regulations 2010 (SI 2010/2214) for England and Wales.
+
+If you need any further help, please let me know.
+2023-08-26 14:12:27,417:INFO: Answering module over.
+2023-08-26 14:12:39,335:INFO: Start answering based on prompt: What does Approved Document C focus on?.
+2023-08-26 14:12:39,337:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:12:41,534:INFO: The returned answer is: 
+Answer: Approved Document C focuses on site preparation and resistance to contaminants and moisture. It covers topics such as methane and other gases from the ground, risk assessment, remedial measures, radon, and other health and safety legislation. 
+If you need any further help, please let me know.
+2023-08-26 14:12:41,535:INFO: Answering module over.
+2023-08-26 14:13:00,269:INFO: Start answering based on prompt: What is the purpose of the methane?.
+2023-08-26 14:13:00,271:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:13:04,178:INFO: The returned answer is: 
+Answer: The purpose of methane is to provide energy and to reduce the risk of explosions in areas where it is present. It is generated by the action of micro-organisms on biodegradable waste materials in landfill sites and can also be produced by organic rich soils and sediments such as peat and river silts. It is important to take measurements over a long period of time in order to characterise gas emissions fully. Guidance on the generation and movement of landfill gas as well as techniques for its investigation can be found in Waste Management Paper No. 2760 and a document by the Chartered Institution of Wastes Management (CIWM). I didn't find the answer to your question in the documentation provided. Please rephrase your query with more details.
+
+I hope this helps. Is there anything else I can help you with?
+2023-08-26 14:13:04,180:INFO: Answering module over.
+2023-08-26 14:13:21,031:INFO: Start answering based on prompt: What is emmision?.
+2023-08-26 14:13:21,033:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:13:24,092:INFO: The returned answer is: 
+Answer: Emission is the release of pollutants into the atmosphere. In the context of building regulations, emission is usually referring to the CO2 emission rate of a building, which is the building's CO2 emission rate expressed as kgCO2/(m2.year). This is calculated by taking into account the fuel input, the electricity production from the scheme, the emission factor for the input fuel, and the emission factor for district heat CHP generated electricity. It is also important to consider the management and control features in the building, as well as the heating plant emission rate. 
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-08-26 14:13:24,094:INFO: Answering module over.
+2023-08-26 14:13:51,267:INFO: Start answering based on prompt: What is CHP?.
+2023-08-26 14:13:51,268:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:13:54,086:INFO: The returned answer is: 
+Answer: CHP stands for Combined Heat and Power. It is a system that produces both heat and electricity from a single fuel source. It is typically used in commercial applications with a total power capacity between 5kWe and 5MWe. The CHPQA quality index is an indicator of the energy efficiency and environmental performance of a CHP scheme, certified by the Combined Heat and Power Quality Assurance scheme. The power efficiency of a CHP unit is the total annual power output divided by its total annual fuel input.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-08-26 14:13:54,087:INFO: Answering module over.
+2023-08-26 14:14:13,032:INFO: Start answering based on prompt: What is Dwellins?.
+2023-08-26 14:14:13,033:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:14:16,354:INFO: The returned answer is: 
+Answer: Dwellins is a dwellinghouse, which is a self-contained unit designed to accommodate a single household. It does not include a flat or a building containing a flat. 
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-08-26 14:14:16,358:INFO: Answering module over.
+2023-08-26 14:14:42,323:INFO: Start answering based on prompt: Give a Breif about Dwellings and its pupose and usage ?.
+2023-08-26 14:14:42,324:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:14:46,414:INFO: The returned answer is: 
+Answer: Dwellings are buildings or parts of buildings that are intended to be used as a place of residence for a single person or people living together as a family. They can include dwellinghouses, flats, residential colleges, halls of residence, and other student accommodation, and living accommodation for children aged 5 years and older. Dwellinghouses are buildings that do not contain a habitable storey with a floor level a minimum of 4.5m above ground level, while flats are separate and self-contained premises constructed or adapted for residential purposes and forming part of a building from which it is divided horizontally. 
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-08-26 14:14:46,419:INFO: Answering module over.
+2023-08-26 14:15:18,470:INFO: Start answering based on prompt: How to measure the depth of the ground?.
+2023-08-26 14:15:18,471:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:15:21,244:INFO: The returned answer is: 
+Answer: The depth of the ground can be measured by digging a trial hole that is a minimum of 1m2 in area and 2m deep, or a minimum of 1.5m below the invert of the proposed drainage field pipework. Additionally, a percolation test should be carried out to assess the further suitability of the proposed area. This test requires a hole 300mm square to be excavated to a depth 300mm below the proposed invert level of the effluent distribution pipe.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-08-26 14:15:21,245:INFO: Answering module over.
+2023-08-26 14:15:49,160:INFO: Start answering based on prompt: What is percolation test? is it important?.
+2023-08-26 14:15:49,162:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:15:52,966:INFO: The returned answer is: 
+Answer: A percolation test is a test used to determine the capacity of the soil to absorb liquid effluent. It is important because it helps to determine whether the soil is suitable for a drainage field or mound, and whether the effluent will be effectively treated. The test involves filling a 300mm square section of a hole to a depth of at least 300mm with water and allowing it to seep away overnight. The results of the test are then used to calculate the soil infiltration rate (f) which is related to the value Vp derived from the test. If the Vp is between 12 and 100, then the soil is suitable for a drainage field. If not, then an alternative form of secondary treatment is required.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-08-26 14:15:52,970:INFO: Answering module over.
+2023-08-26 14:16:19,960:INFO: Start answering based on prompt: What happens if the percolation test is not conducted?.
+2023-08-26 14:16:19,962:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:16:23,206:INFO: The returned answer is: 
+Answer: If the percolation test is not conducted, it is not possible to determine the capacity of the soil and the suitability of the proposed area for a drainage field. According to Approved Document H2, a percolation test should be carried out to assess the further suitability of the proposed area. If the test is carried out in summer, the likely winter groundwater levels should be considered. 
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-08-26 14:16:23,208:INFO: Answering module over.
+2023-08-26 14:16:38,441:INFO: Start answering based on prompt: what are the consequences of it?.
+2023-08-26 14:16:38,443:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:16:43,204:INFO: The returned answer is: 
+Answer: The consequences of contaminants in certain parts of the country can include health hazards associated with chemical and biological contaminants, and gas generation from biodegradation of organic matter. Hazards to the built environment can be physical, chemical or biological. Protective measures to address these hazards include:
+
+- Treating the contaminant (e.g. use of physical, chemical or biological processes to eliminate or reduce the contaminant’s toxicity or harmful properties)
+- Removing the contaminant (e.g. excavating contaminated material)
+- Using water resistant construction
+- Installing non-return valves and anti-flooding devices
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-08-26 14:16:43,207:INFO: Answering module over.
+2023-08-26 14:17:16,795:INFO: Start answering based on prompt: what are the contaminants?.
+2023-08-26 14:17:16,796:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:17:20,009:INFO: The returned answer is: 
+Answer: The contaminants mentioned in the documents are naturally occurring heavy metals (e.g. cadmium and arsenic) originating in mining areas, and gases (e.g. methane and carbon dioxide) originating in coal mining areas and from organic rich soils and sediments such as peat and river silts. 
+
+I hope this answers your question. If you need any further help, please let me know.
+2023-08-26 14:17:20,013:INFO: Answering module over.
+2023-08-26 14:19:32,702:INFO: Logger Created
+2023-08-26 14:24:30,348:INFO: Start answering based on prompt: what are the contaminants?.
+2023-08-26 14:24:30,348:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:24:32,617:INFO: The returned answer is: 
+Answer: The contaminants mentioned in the documents are naturally occurring heavy metals (e.g. cadmium and arsenic) originating in mining areas, and gases (e.g. methane and carbon dioxide) originating in coal mining areas and from organic rich soils and sediments such as peat and river silts. 
+
+I hope this answers your question. If you need any further help, please let me know.
+2023-08-26 14:24:32,621:INFO: Answering module over.
+2023-08-26 14:24:35,893:INFO: Start answering based on prompt: Hello!.
+2023-08-26 14:24:35,894:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:24:43,833:INFO: The returned answer is: 
+Hello! Based on the documents provided, I can answer the following questions:
+
+- What are the requirements for door limitation and caller identification? 
+Answer: The main doors for entering a dwelling should have a door viewer unless other means exist to see callers, such as clear glass within the door or a window next to the doorset. The same doorset should also have a door chain or door limiter. In some situations a door chain or limiter is not appropriate, for example where a warden may need emergency access to residents in sheltered housing. Alternative caller-identification measures such as electronic audio-visual door entry systems can be used to identify visitors.
+
+- What is a dwellinghouse?
+Answer: A dwellinghouse is a single person or people living together as a family, with a maximum of six people living together as a single household, including where care is provided for residents. It does not include a flat or a building containing a flat.
+
+- What are the design considerations for an entrance hall and reception area?
+Answer: The clear manoeuvring space in front of any reception desk or counter should be 1200mm deep and 1800mm wide if there is a knee recess at least 500mm deep, or 1400mm deep and 2200mm wide if there is no knee recess. Any reception point should be located away from the principal entrance (while still providing a view of it) where there is a risk that external noise will be a problem,
+2023-08-26 14:24:43,836:INFO: Answering module over.
+2023-08-26 14:25:32,263:INFO: Start answering based on prompt: Hello!.
+2023-08-26 14:25:32,265:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:25:37,771:INFO: The returned answer is: 
+Hello! Based on the documents provided, I can answer the following questions:
+
+- What are the requirements for door limitation and caller identification?
+Answer: The main doors for entering a dwelling should have a door viewer unless other means exist to see callers, such as clear glass within the door or a window next to the doorset. The same doorset should also have a door chain or door limiter. In some situations a door chain or limiter is not appropriate, for example where a warden may need emergency access to residents in sheltered housing. Alternative caller-identification measures such as electronic audio-visual door entry systems can be used to identify visitors.
+
+- What is a dwellinghouse?
+Answer: A dwellinghouse is a single person or people living together as a family, with a maximum of six people living together as a single household, including where care is provided for residents. It does not include a flat or a building containing a flat.
+
+- What are the design considerations for an entrance hall and reception area?
+Answer: The design of the approach to any reception point should allow space for wheelchair users to gain access to the reception point. The clear manoeuvring space in front of any reception desk or counter should be 1200mm deep and 1800mm wide if there is a knee recess at least 500mm deep, or 1400mm deep and 2200mm wide if there is no knee recess. Any reception desk or counter should be designed to accommodate both
+2023-08-26 14:25:37,777:INFO: Answering module over.
+2023-08-26 14:25:52,371:INFO: Start answering based on prompt: Hello!.
+2023-08-26 14:25:52,372:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:25:57,930:INFO: The returned answer is: 
+Hello! Based on the documents provided, I can answer the following questions:
+
+- What are the requirements for door limitation and caller identification? 
+Answer: The main doors for entering a dwelling should have a door viewer unless other means exist to see callers, such as clear glass within the door or a window next to the doorset. The same doorset should also have a door chain or door limiter. In some situations a door chain or limiter is not appropriate, for example where a warden may need emergency access to residents in sheltered housing. Alternative caller-identification measures such as electronic audio-visual door entry systems can be used to identify visitors.
+
+- What is a dwellinghouse?
+Answer: A dwellinghouse is a single person or people living together as a family, with a maximum of six people living together as a single household, including where care is provided for residents. It does not include a flat or a building containing a flat.
+
+- What are the design considerations for an entrance hall and reception area?
+Answer: The clear manoeuvring space in front of any reception desk or counter should be 1200mm deep and 1800mm wide if there is a knee recess at least 500mm deep, or 1400mm deep and 2200mm wide if there is no knee recess. Any reception point should be located away from the principal entrance (while still providing a view of it) where there is a risk that external noise will be a problem,
+2023-08-26 14:25:57,937:INFO: Answering module over.
+2023-08-26 14:26:06,723:INFO: Start answering based on prompt: Hello.
+2023-08-26 14:26:06,724:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:26:08,574:INFO: The returned answer is: 
+Sorry, I didn't find the answer to your question in the provided documents. Could you please rephrase your query with more details? I'm here to help you with any questions about Merged Approved Documents of Building Regulations.
+2023-08-26 14:26:08,576:INFO: Answering module over.
+2023-08-26 14:26:15,933:INFO: Start answering based on prompt: Hello!.
+2023-08-26 14:26:15,934:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:26:22,090:INFO: The returned answer is: 
+Hello! Based on the documents provided, I can answer the following questions:
+
+- What are the requirements for door limitation and caller identification? 
+Answer: The main doors for entering a dwelling should have a door viewer unless other means exist to see callers, such as clear glass within the door or a window next to the doorset. The same doorset should also have a door chain or door limiter. In some situations a door chain or limiter is not appropriate, for example where a warden may need emergency access to residents in sheltered housing. Alternative caller-identification measures such as electronic audio-visual door entry systems can be used to identify visitors.
+
+- What is a dwellinghouse?
+Answer: A dwellinghouse is a single person or people living together as a family, with a maximum of six people living together as a single household, including where care is provided for residents. It does not include a flat or a building containing a flat.
+
+- What are the design considerations for an entrance hall and reception area?
+Answer: The clear manoeuvring space in front of any reception desk or counter should be 1200mm deep and 1800mm wide if there is a knee recess at least 500mm deep, or 1400mm deep and 2200mm wide if there is no knee recess. Any reception point should be located away from the principal entrance (while still providing a view of it) where there is a risk that external noise will be a problem,
+2023-08-26 14:26:22,094:INFO: Answering module over.
+2023-08-26 14:26:32,135:INFO: Start answering based on prompt: Hello!.
+2023-08-26 14:26:32,136:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:26:39,260:INFO: The returned answer is: 
+Hello! Based on the documents provided, I can answer the following questions:
+
+- What are the requirements for door limitation and caller identification?
+Answer: The main doors for entering a dwelling should have a door viewer unless other means exist to see callers, such as clear glass within the door or a window next to the doorset. The same doorset should also have a door chain or door limiter. In some situations a door chain or limiter is not appropriate, for example where a warden may need emergency access to residents in sheltered housing. Alternative caller-identification measures such as electronic audio-visual door entry systems can be used to identify visitors.
+
+- What is a dwellinghouse?
+Answer: A dwellinghouse is a single person or people living together as a family, with a maximum of six people living together as a single household, including where care is provided for residents. It does not include a flat or a building containing a flat.
+
+- What are the design considerations for an entrance hall and reception area?
+Answer: The design of the approach to any reception point should allow space for wheelchair users to gain access to the reception point. The clear manoeuvring space in front of any reception desk or counter should be 1200mm deep and 1800mm wide if there is a knee recess at least 500mm deep, or 1400mm deep and 2200mm wide if there is no knee recess. Any reception desk or counter should be designed to accommodate both
+2023-08-26 14:26:39,262:INFO: Answering module over.
+2023-08-26 14:26:47,102:INFO: Start answering based on prompt: hello.
+2023-08-26 14:26:47,103:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:26:49,138:INFO: The returned answer is: 
+I didn't find the answer to your question in the provided documents. Please rephrase your query with more details so I can help you better.
+
+In the meantime, I can help you with any questions you may have about the entrance hall and reception area. Please let me know if I can be of any assistance.
+2023-08-26 14:26:49,140:INFO: Answering module over.
+2023-08-26 14:27:04,351:INFO: Start answering based on prompt: Hello!.
+2023-08-26 14:27:04,352:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:27:12,489:INFO: The returned answer is: 
+Hello! Based on the documents provided, I can answer the following questions:
+
+- What are the requirements for door limitation and caller identification?
+Answer: The main doors for entering a dwelling should have a door viewer unless other means exist to see callers, such as clear glass within the door or a window next to the doorset. The same doorset should also have a door chain or door limiter. In some situations a door chain or limiter is not appropriate, for example where a warden may need emergency access to residents in sheltered housing. Alternative caller-identification measures such as electronic audio-visual door entry systems can be used to identify visitors.
+
+- What is a dwellinghouse?
+Answer: A dwellinghouse is a single person or people living together as a family, with a maximum of six people living together as a single household, including where care is provided for residents. It does not include a flat or a building containing a flat.
+
+- What are the design considerations for an entrance hall and reception area?
+Answer: The design of the approach to any reception point should allow space for wheelchair users to gain access to the reception point. The clear manoeuvring space in front of any reception desk or counter should be 1200mm deep and 1800mm wide if there is a knee recess at least 500mm deep, or 1400mm deep and 2200mm wide if there is no knee recess. Any reception desk or counter should be designed to accommodate both
+2023-08-26 14:27:12,494:INFO: Answering module over.
+2023-08-26 14:28:08,800:INFO: Start answering based on prompt: Hello!.
+2023-08-26 14:28:08,802:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:28:15,210:INFO: The returned answer is: 
+Hello! Based on the documents provided, I can answer the following questions:
+
+- What are the requirements for door limitation and caller identification? 
+Answer: The main doors for entering a dwelling should have a door viewer unless other means exist to see callers, such as clear glass within the door or a window next to the doorset. The same doorset should also have a door chain or door limiter. In some situations a door chain or limiter is not appropriate, for example where a warden may need emergency access to residents in sheltered housing. Alternative caller-identification measures such as electronic audio-visual door entry systems can be used to identify visitors.
+
+- What is a dwellinghouse?
+Answer: A dwellinghouse is a single person or people living together as a family, with a maximum of six people living together as a single household, including where care is provided for residents. It does not include a flat or a building containing a flat.
+
+- What are the design considerations for an entrance hall and reception area?
+Answer: The clear manoeuvring space in front of any reception desk or counter should be 1200mm deep and 1800mm wide if there is a knee recess at least 500mm deep, or 1400mm deep and 2200mm wide if there is no knee recess. Any reception point should be located away from the principal entrance (while still providing a view of it) where there is a risk that external noise will be a problem,
+2023-08-26 14:28:15,212:INFO: Answering module over.
+2023-08-26 14:28:25,641:INFO: Start answering based on prompt: What is this documents about?.
+2023-08-26 14:28:25,642:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:28:29,784:INFO: The returned answer is: 
+Answer: This document is a series of approved documents issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to and Regulation 7 of the Building Regulations 2010 (SI 2010/2214) for England and Wales. It provides guidance on materials and workmanship, as well as on other matters such as prevention of the contamination of water, resistance to the passage of sound, access to and use of buildings, and the conservation of fuel and power. At the back of this document is a list of all the documents that have been approved and issued by the Secretary of State for this purpose.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-08-26 14:28:29,787:INFO: Answering module over.
+2023-08-26 14:28:39,020:INFO: Start answering based on prompt: Give the list of Approved Documents?.
+2023-08-26 14:28:39,022:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:28:43,106:INFO: The returned answer is: 
+Answer: The list of Approved Documents is as follows: 
+
+- Approved Document M Access to and use of buildings Volume 1: Dwellings Volume 2: Buildings other than dwellings
+- Approved Document P Electrical safety – Dwellings
+- Approved Document A Structure
+- Approved Document Q Security – Dwellings
+- Approved Document B Fire safety Volume 1: Dwellings Volume 2: Buildings other than dwellings
+- Approved Document R Physical infrastructure for high-speed electronic communications networks
+- Approved Document C Site preparation and resistance to contaminants and moisture
+- Approved Document 7 Materials and workmanship
+- Approved Document D Toxic substances
+- Approved Document E Resistance to the passage of sound
+- Approved Document F Ventilation
+- Approved Document G Sanitation, hot water safety and water efficiency
+
+An approved document is a publication that has been approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to and Regulation 7 of the Building Regulations 2010 (SI 2010/2214) for England and Wales.
+
+Is there anything else I can help you with?
+2023-08-26 14:28:43,115:INFO: Answering module over.
+2023-08-26 14:29:08,520:INFO: Start answering based on prompt: What does Approved document F focus on??.
+2023-08-26 14:29:08,521:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:29:10,931:INFO: The returned answer is: 
+Answer: Approved Document F focuses on the requirements for ventilation in buildings other than dwellinghouses. It provides guidance on how to meet the requirements of the Building Regulations 2010 for England, including the requirements for ventilation, air quality, and thermal comfort. It also includes provisions that must be followed exactly, as required by regulations or where methods of test or calculation have been prescribed by the Secretary of State. 
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-08-26 14:29:10,934:INFO: Answering module over.
+2023-08-26 14:29:37,573:INFO: Start answering based on prompt: What are the requirements for ventilation?.
+2023-08-26 14:29:37,574:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:29:42,823:INFO: The returned answer is: 
+Answer: The requirements for ventilation as stated in the documents are: 
+- All fixed mechanical ventilation systems for which testing and adjustment is possible must be tested and commissioned. 
+- Commissioning results must show that systems are operating as required to achieve adequate ventilation, including achieving the flow rates specified in the approved document. 
+- Commissioning results must show that controls are operating as required to achieve adequate ventilation. 
+- The person carrying out the work must give notice to the building control body that commissioning has been carried out following the procedure given in the document. 
+- Incorporating background ventilators in the replacement windows with a minimum equivalent area of 4000mm2 in each habitable room. 
+- If the dwelling will have continuous mechanical extract ventilation, installing background ventilators in any replacement windows which are not in wet rooms, with a minimum equivalent area of 4000mm2 in each habitable room. 
+- For floor areas up to 10m2 – minimum 2500mm2 equivalent area. 
+- For floor areas greater than 10m2 – minimum 250mm2 equivalent area per m2 of floor area. 
+- Domestic-type kitchen – minimum 8000mm2 equivalent area. 
+- Bathroom (with or without a toilet) and shower rooms – minimum 4000mm2 equivalent area per bath or shower. 
+- Sanitary accommodation (and/or washing facilities) – minimum 2000mm2 equivalent area per WC. 
+- Air
+2023-08-26 14:29:42,830:INFO: Answering module over.
+2023-08-26 14:30:06,553:INFO: Start answering based on prompt: What are sanitary accomodations?.
+2023-08-26 14:30:06,554:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:30:12,023:INFO: The returned answer is: 
+Answer: Sanitary accomodations are spaces containing one or more flush toilets (WCs) or urinals. They may be self-contained rooms with hand washing facilities, cubicles with shared hand washing facilities located in a room containing a number of cubicles, or self-contained rooms with hand washing facilities provided in an adjacent room. Ventilation openings, such as openable parts of a window, a louvre or a background ventilator, are also required.
+
+For workplaces, the Workplace (Health, Safety and Welfare) Regulations 1992 apply to the separation of a place containing a sanitary convenience and/or associated hand washing facilities and a workplace. Guidance on ventilation of sanitary accommodation is given in Approved Document F and on the provision of suitable sanitary accommodation in Approved Document M.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-08-26 14:30:12,027:INFO: Answering module over.
+2023-08-26 14:30:38,290:INFO: Start answering based on prompt: What kind of ventilations used for buildings?.
+2023-08-26 14:30:38,291:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 14:30:44,216:INFO: The returned answer is: 
+Answer: Ventilation for buildings can be provided through natural ventilation, mechanical ventilation or a combination of both. Natural ventilation should follow additional guidance on ventilation in CIBSE’s AM10. Permanently open air vents should be non-adjustable, sized to admit sufficient air for the purpose intended and positioned where they are unlikely to become blocked. Ventilators should be installed so that building occupants are not provoked into sealing them against draughts or noise. Ventilation openings should not be made in fire-resisting walls other than external walls (although they should not penetrate those parts of external walls shielding LPG tanks). Air vents should not be located within a fireplace recess except on the basis of specialist advice. Where ventilation is to be provided via a single proprietary assembly, for example when it is proposed to use a proprietary ventilator with integral grilles to bridge a cavity wall, the equivalent area of the ventilator should be taken as that declared by the manufacturer having been measured by the method in BS EN 13141-1:2004.
+
+If you need any further help, please let me know.
+2023-08-26 14:30:44,221:INFO: Answering module over.
+2023-08-26 15:31:42,750:INFO: Logger Created
+2023-08-26 15:31:42,750:INFO: Logger Created
+2023-08-26 15:32:21,042:INFO: Logger Created
+2023-08-26 15:37:34,823:INFO: Start answering based on prompt: hello!.
+2023-08-26 15:37:34,824:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 15:37:42,464:INFO: The returned answer is: 
+Answer: Hi there! Based on the documents provided, I can answer the following questions: 
+- What are the requirements for openings for inspection and cleaning of flues? 
+Answer: Openings for inspection and cleaning should be formed using purpose factory-made components compatible with the flue system, having an access cover that has the same level of gas-tightness as the flue system and an equal level of thermal insulation. Openings for cleaning the flue should allow easy passage of the sweeping brush. Covers should also be non-combustible except where fitted to a combustible fluepipe (such as a plastic fluepipe). After the appliance has been installed, it should be possible to sweep the whole flue. 
+- What is the formula for calculating the opening area of a fireplace? 
+Answer: The opening area of a fireplace should be calculated from the following formula: L x H x W. Examples of L and H for large and unusual fireplace openings are shown in Diagram 45. 
+- What are the requirements for short-lived materials? 
+Answer: Some materials, in the absence of special care, may be considered unsuitable because of their rapid deterioration in relation to the expected life of the building. A short-lived material which is readily accessible for inspection, maintenance and replacement may meet the requirements of the regulations if the consequences of failure are not likely to be serious to the health or safety of people in and around
+2023-08-26 15:37:42,470:INFO: Answering module over.
+2023-08-26 15:37:43,128:INFO: Start answering based on prompt: Hello!.
+2023-08-26 15:37:43,129:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 15:37:48,383:INFO: The returned answer is: 
+Answer: Based on the provided documents, it appears that wheelchair users and those with mobility or sensory impairment should be provided with spaces into which they can manoeuvre easily, and which offer them a clear view of an event, while ensuring they are not segregated into special areas. Wheelchair users, people who have difficulty in using seats with fixed arms and those with assistance dogs should also have the choice of sitting next to a conventionally seated person or a companion wheelchair user. Consideration should be given to providing an area next to certain seats for an assistance dog to rest. Additionally, the design of the approach to any reception point should allow space for wheelchair users to gain access to the reception point, and the clear manoeuvring space in front of any reception desk or counter should be 1200mm deep and 1800mm wide if there is a knee recess at least 500mm deep, or 1400mm deep and 2200mm wide if there is no knee recess. Furthermore, any reception desk or counter should be designed to accommodate both standing and seated visitors such that at least one section of the counter is at least 1500mm wide, with its surface no higher than 760mm, and a knee recess, not less than 700mm, above floor level. Finally, a proportion of the sleeping accommodation in hotels, motels and student accommodation should be designed for independent use by wheelchair users.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-08-26 15:37:48,388:INFO: Answering module over.
+2023-08-26 15:38:00,786:INFO: Start answering based on prompt: Hello!.
+2023-08-26 15:38:00,787:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 15:38:07,000:INFO: The returned answer is: 
+Answer: Based on the provided documents, it appears that wheelchair users and those with mobility or sensory impairment should be provided with spaces into which they can manoeuvre easily, and which offer them a clear view of an event, while ensuring they are not segregated into special areas. Wheelchair users, people who have difficulty in using seats with fixed arms and those with assistance dogs should also have the choice of sitting next to a conventionally seated person or a companion wheelchair user. Consideration should be given to providing an area next to certain seats for an assistance dog to rest. Additionally, the design of the approach to any reception point should allow space for wheelchair users to gain access to the reception point, and the clear manoeuvring space in front of any reception desk or counter should be 1200mm deep and 1800mm wide if there is a knee recess at least 500mm deep, or 1400mm deep and 2200mm wide if there is no knee recess. Furthermore, any reception desk or counter should be designed to accommodate both standing and seated visitors such that at least one section of the counter is at least 1500mm wide, with its surface no higher than 760mm, and a knee recess, not less than 700mm, above floor level. Finally, a proportion of the sleeping accommodation in hotels, motels and student accommodation should be designed for independent use by wheelchair users.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-08-26 15:38:07,004:INFO: Answering module over.
+2023-08-26 15:38:18,036:INFO: Start answering based on prompt: Hello.
+2023-08-26 15:38:18,037:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 15:38:24,224:INFO: The returned answer is: 
+Answer: Hi there! Based on the provided documents, I can answer the following questions: 
+
+- What are the requirements for letter plates in dwellings?
+Answer: Letter plates should have a maximum aperture of 260mm x 40mm and should be located and/or designed to hinder anyone attempting to remove keys with sticks and/or insert their hand, for example by incorporating a flap or other features to restrict access. Letter plates meeting the requirements of the Door and Hardware Federation’s (DHF) technical specification TS 008:2012 have been shown to protect against the attacks mentioned above.
+
+- What are the requirements for door viewers and door limiters?
+Answer: The main doors for entering a dwelling (usually the front door) should have a door viewer unless other means exist to see callers, such as clear glass within the door or a window next to the doorset. The same doorset should also have a door chain or door limiter. In some situations a door chain or limiter is not appropriate, for example where a warden may need emergency access to residents in sheltered housing. Alternative caller-identification measures such as electronic audio-visual door entry systems can be used to identify visitors.
+
+- What are the requirements for wheelchair access?
+Answer: Within the curtilage of the dwelling, or of the building containing the dwelling, it is possible to approach and gain step-free access to the dwelling and to any associated parking space
+2023-08-26 15:38:24,229:INFO: Answering module over.
+2023-08-26 15:38:35,924:INFO: Start answering based on prompt: What is this document about?.
+2023-08-26 15:38:35,926:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 15:38:39,209:INFO: The returned answer is: 
+This document is part of a series of documents approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to and Regulation 7 of the Building Regulations 2010 (SI 2010/2214) for England and Wales. It provides guidance on materials and workmanship, prevention of the contamination of water, resistance to the passage of sound, access to and use of buildings, and the conservation of fuel and power. At the back of this document is a list of all the documents that have been approved and issued by the Secretary of State for this purpose.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-08-26 15:38:39,213:INFO: Answering module over.
+2023-08-26 15:38:49,637:INFO: Start answering based on prompt: Give the list of Approved Documents?.
+2023-08-26 15:38:49,639:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 15:38:53,822:INFO: The returned answer is: 
+Answer: The list of Approved Documents is as follows: 
+
+- Approved Document M Access to and use of buildings Volume 1: Dwellings Volume 2: Buildings other than dwellings
+- Approved Document P Electrical safety – Dwellings
+- Approved Document A Structure
+- Approved Document Q Security – Dwellings
+- Approved Document B Fire safety Volume 1: Dwellings Volume 2: Buildings other than dwellings
+- Approved Document R Physical infrastructure for high-speed electronic communications networks
+- Approved Document C Site preparation and resistance to contaminants and moisture
+- Approved Document 7 Materials and workmanship
+- Approved Document D Toxic substances
+- Approved Document E Resistance to the passage of sound
+- Approved Document F Ventilation
+- Approved Document G Sanitation, hot water safety and water efficiency
+
+An approved document is a publication that has been approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to and Regulation 7 of the Building Regulations 2010 (SI 2010/2214) for England and Wales.
+
+Is there anything else I can help you with?
+2023-08-26 15:38:53,828:INFO: Answering module over.
+2023-08-26 15:39:11,232:INFO: Start answering based on prompt: What does Approved Document F focus on?.
+2023-08-26 15:39:11,234:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 15:39:14,463:INFO: The returned answer is: 
+Answer: Approved Document F focuses on ventilation for buildings other than dwellings. It provides guidance on how to meet the requirements of the Building Regulations 2010 for England in terms of ventilation, including requirements for mechanical ventilation systems, natural ventilation systems, and other ventilation systems. It also includes provisions that must be followed exactly, as required by regulations or where methods of test or calculation have been prescribed by the Secretary of State. 
+
+I hope this answers your question. If you need any further help, please let me know.
+2023-08-26 15:39:14,467:INFO: Answering module over.
+2023-08-26 15:39:33,163:INFO: Start answering based on prompt: What is ventiliation?.
+2023-08-26 15:39:33,165:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 15:39:36,225:INFO: The returned answer is: 
+Answer: Ventilation is the supply and removal of air (by natural and/or mechanical means) to and from a space or spaces in a building. It normally comprises a combination of purpose-provided ventilation and infiltration. It is used to dilute and remove pollutants and water vapour not removed by extract ventilation, purge ventilation or infiltration, as well as to supply outdoor air into the dwelling.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-08-26 15:39:36,229:INFO: Answering module over.
+2023-08-26 15:39:58,167:INFO: Start answering based on prompt: give an overview of the Approved Document F?.
+2023-08-26 15:39:58,168:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 15:40:02,463:INFO: The returned answer is: 
+Approved Document F provides guidance on ventilation for dwellings and buildings other than dwellings. It covers requirements for ventilation systems, natural ventilation, mechanical ventilation, and ventilation of kitchens and bathrooms. It also includes guidance on the installation of ventilation systems, and the performance expected of materials and building work in order to comply with the requirements of the Building Regulations. 
+
+If you need any further help or have any other questions, please let me know.
+2023-08-26 15:40:02,464:INFO: Answering module over.
+2023-08-26 15:40:27,449:INFO: Start answering based on prompt: What are dwellings?under which approved document does this comes ?.
+2023-08-26 15:40:27,450:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 15:40:30,173:INFO: The returned answer is: 
+Answer: Dwellings are buildings or parts of buildings used as a home or place of residence. This comes under Approved Document M Access to and use of buildings Volume 1: Dwellings. 
+
+If you have any other questions, please let me know and I will be happy to help.
+2023-08-26 15:40:30,174:INFO: Answering module over.
+2023-08-26 15:40:49,175:INFO: Start answering based on prompt: what is the purpose of dwellings ?.
+2023-08-26 15:40:49,178:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 15:40:53,970:INFO: The returned answer is: 
+Answer: The purpose of dwellings is to provide living accommodation for people, either as a single person or as a family. Dwellings can include dwellinghouses, flats, residential colleges, halls of residence, and other student accommodation, and living accommodation for children aged 5 years and older. They must also provide a suitable sleeping area for one person, a clear access route, an entrance storey, a clear access zone, and any windows and doors in the wall.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-08-26 15:40:53,972:INFO: Answering module over.
+2023-08-26 16:09:01,305:INFO: Logger Created
+2023-08-26 16:14:14,706:INFO: Start answering based on prompt: what is the purpose of dwellings ?.
+2023-08-26 16:14:14,706:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 16:14:18,059:INFO: The returned answer is: 
+Answer: The purpose of dwellings is to provide living accommodation for people, either as a single person or as a family. Dwellings can include dwellinghouses, flats, residential colleges, halls of residence, and other student accommodation, and living accommodation for children aged 5 years and older. They must also provide a suitable sleeping area for one person, a clear access route, an entrance storey, a clear access zone, and any windows and doors in the wall.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-08-26 16:14:18,062:INFO: Answering module over.
+2023-08-26 16:44:29,630:INFO: Logger Created
+2023-08-26 17:43:51,569:INFO: Logger Created
+2023-08-26 17:54:25,212:INFO: Logger Created
+2023-08-26 17:59:18,705:INFO: Logger Created
+2023-08-26 17:59:18,705:INFO: Logger Created
+2023-08-26 18:12:14,736:INFO: Logger Created
+2023-08-26 18:17:00,288:INFO: Logger Created
+2023-08-26 18:17:00,288:INFO: Logger Created
+2023-08-26 18:25:26,853:INFO: Logger Created
+2023-08-26 18:27:59,078:INFO: Logger Created
+2023-08-26 18:32:39,277:INFO: Logger Created
+2023-08-26 18:32:39,277:INFO: Logger Created
+2023-08-26 18:37:14,237:INFO: Logger Created
+2023-08-26 18:37:14,237:INFO: Logger Created
+2023-08-26 18:37:14,237:INFO: Logger Created
+2023-08-26 18:38:20,543:INFO: Logger Created
+2023-08-26 18:43:10,216:INFO: Logger Created
+2023-08-26 18:43:10,216:INFO: Logger Created
+2023-08-26 18:48:58,624:INFO: Logger Created
+2023-08-26 18:53:32,315:INFO: Logger Created
+2023-08-26 18:53:32,315:INFO: Logger Created
+2023-08-26 19:03:18,768:INFO: Logger Created
+2023-08-26 19:07:43,466:INFO: Logger Created
+2023-08-26 19:07:43,466:INFO: Logger Created
+2023-08-26 19:12:32,859:INFO: Logger Created
+2023-08-26 19:12:32,859:INFO: Logger Created
+2023-08-26 19:12:32,859:INFO: Logger Created
+2023-08-26 19:16:57,568:INFO: Logger Created
+2023-08-26 19:16:57,568:INFO: Logger Created
+2023-08-26 19:16:57,568:INFO: Logger Created
+2023-08-26 19:16:57,568:INFO: Logger Created
+2023-08-26 19:28:16,276:INFO: Logger Created
+2023-08-26 19:32:39,759:INFO: Logger Created
+2023-08-26 19:32:39,759:INFO: Logger Created
+2023-08-26 19:37:49,130:INFO: Start answering based on prompt: Hello!.
+2023-08-26 19:37:49,130:INFO: Start answering based on prompt: Hello!.
+2023-08-26 19:37:49,131:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 19:37:49,131:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 19:38:04,484:INFO: The returned answer is: 
+ANSWER: Based on the provided documents, it appears that wheelchair users and those with mobility or sensory impairment should be provided with spaces into which they can manoeuvre easily, and which offer them a clear view of an event. Additionally, consideration should be given to providing an area next to certain seats for an assistance dog to rest. The approach to any reception point should allow space for wheelchair users to gain access to the reception point. The clear manoeuvring space in front of any reception desk or counter should be 1200mm deep and 1800mm wide if there is a knee recess at least 500mm deep, or 1400mm deep and 2200mm wide if there is no knee recess. Any reception desk or counter should be designed to accommodate both standing and seated visitors such that at least one section of the counter is at least 1500mm wide, with its surface no higher than 760mm, and a knee recess, not less than 700mm, above floor level.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-08-26 19:38:04,484:INFO: The returned answer is: 
+ANSWER: Based on the provided documents, it appears that wheelchair users and those with mobility or sensory impairment should be provided with spaces into which they can manoeuvre easily, and which offer them a clear view of an event. Additionally, consideration should be given to providing an area next to certain seats for an assistance dog to rest. The approach to any reception point should allow space for wheelchair users to gain access to the reception point. The clear manoeuvring space in front of any reception desk or counter should be 1200mm deep and 1800mm wide if there is a knee recess at least 500mm deep, or 1400mm deep and 2200mm wide if there is no knee recess. Any reception desk or counter should be designed to accommodate both standing and seated visitors such that at least one section of the counter is at least 1500mm wide, with its surface no higher than 760mm, and a knee recess, not less than 700mm, above floor level.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-08-26 19:38:04,488:INFO: Answering module over.
+2023-08-26 19:38:04,488:INFO: Answering module over.
+2023-08-26 19:38:16,129:INFO: Start answering based on prompt: What is this Document is about?.
+2023-08-26 19:38:16,129:INFO: Start answering based on prompt: What is this Document is about?.
+2023-08-26 19:38:16,130:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 19:38:16,130:INFO: The top 4 chunks are considered to answer the user's query.
+2023-08-26 19:38:19,984:INFO: The returned answer is: 
+This document is one of a series of documents that have been approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 and Regulation 7 of the Building Regulations 2010 (SI 2010/2215) for England and Wales. The documents provide guidance on meeting the requirements of the Building Regulations for materials and workmanship, combustion appliances and fuel storage systems, resistance to the passage of sound, access to and use of buildings, and the conservation of fuel and power. At the back of this document is a list of all the documents that have been approved and issued by the Secretary of State for this purpose.
+
+If you need any further help, please let me know.
+2023-08-26 19:38:19,984:INFO: The returned answer is: 
+This document is one of a series of documents that have been approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 and Regulation 7 of the Building Regulations 2010 (SI 2010/2215) for England and Wales. The documents provide guidance on meeting the requirements of the Building Regulations for materials and workmanship, combustion appliances and fuel storage systems, resistance to the passage of sound, access to and use of buildings, and the conservation of fuel and power. At the back of this document is a list of all the documents that have been approved and issued by the Secretary of State for this purpose.
+
+If you need any further help, please let me know.
+2023-08-26 19:38:19,987:INFO: Answering module over.
+2023-08-26 19:38:19,987:INFO: Answering module over.
