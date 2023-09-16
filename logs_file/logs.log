@@ -493,3 +493,881 @@ This document is one of a series of documents that have been approved and issued
 If you need any further help, please let me know.
 2023-08-26 19:38:19,987:INFO: Answering module over.
 2023-08-26 19:38:19,987:INFO: Answering module over.
+2023-09-05 14:27:55,807:INFO: Logger Created
+2023-09-05 14:35:48,011:INFO: Logger Created
+2023-09-05 14:35:48,011:INFO: Logger Created
+2023-09-05 14:38:13,834:INFO: Logger Created
+2023-09-05 15:33:52,332:INFO: Logger Created
+2023-09-05 17:13:42,149:INFO: Logger Created
+2023-09-05 17:33:56,877:INFO: Start answering based on prompt: hello.
+2023-09-05 17:33:56,880:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-05 17:33:59,467:INFO: The returned answer is: 
+Answer: Hello! I'm sorry, I didn't find an answer to your question in the provided documents. Could you please rephrase your query with more details? I'm here to help you with any questions about Merged Approved Documents of Building Regulations.
+2023-09-05 17:33:59,468:INFO: Answering module over.
+2023-09-05 17:34:42,464:INFO: Logger Created
+2023-09-05 17:34:42,464:INFO: Logger Created
+2023-09-07 12:56:32,541:INFO: Logger Created
+2023-09-07 14:30:16,847:INFO: Start answering based on prompt: Hello!.
+2023-09-07 14:30:16,849:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 14:30:23,660:INFO: The returned answer is: 
+Answer: Based on the provided documents, it appears that wheelchair users and those with mobility or sensory impairment should be provided with spaces into which they can manoeuvre easily, and which offer them a clear view of an event. Consideration should also be given to providing an area next to certain seats for an assistance dog to rest. The entrance hall and reception area should be easily accessible and convenient to use, with a reception desk or counter designed to accommodate both standing and seated visitors. In large, complex works or where there are significant constraints imposed by an existing site, a written document setting out key aspects of the access approach, supported by annotated drawings as well as face to face meetings to resolve key issues should be used to ensure that the functional requirements of Part M of the Building Regulations are satisfied.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-07 14:30:23,662:INFO: Answering module over.
+2023-09-07 14:31:10,818:INFO: Start answering based on prompt: hello.
+2023-09-07 14:31:10,820:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 14:31:13,648:INFO: The returned answer is: 
+Sorry, I didn't find the answer to your question in the provided documents. Could you please rephrase your query with more details?
+
+I am here to help you with any questions about Merged Approved Documents of Building Regulations. Please let me know if there is anything else I can help you with.
+2023-09-07 14:31:13,650:INFO: Answering module over.
+2023-09-07 14:35:19,676:INFO: Logger Created
+2023-09-07 14:40:23,036:INFO: Start answering based on prompt: hello.
+2023-09-07 14:40:23,038:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 14:40:32,514:INFO: The returned answer is: 
+Answer: Based on the documents provided, it appears that: 
+- Letter plates meeting the requirements of the Door and Hardware Federation’s (DHF’s) technical specification TS 008:2012 have been shown to protect against certain attacks. 
+- The main doors for entering a dwelling should have a door viewer, a door chain or door limiter, or alternative caller-identification measures such as electronic audio-visual door entry systems. 
+- Wheelchair users and those with mobility or sensory impairment should be provided with spaces into which they can manoeuvre easily, and which offer them a clear view of an event. 
+- Good acoustic design should be employed to achieve an acoustic environment that is neither too reverberant nor too absorbent. 
+- Any door from a unisex wheelchair-accessible toilet projects when open into a corridor that is not a major access route or an escape route, provided the corridor is at least 1800mm wide at that point. 
+- On a major access route or an escape route, the wider leaf of a series of double doors with leaves of unequal width is on the same side of the corridor throughout the length of the corridor. 
+- Elements such as columns, radiators and fire hoses should not project into the corridor, or where this is unavoidable, a means of directing people around them, such as a visually contrasting guard rail, should be provided. 
+- Floor surface finishes with patterns that could
+2023-09-07 14:40:32,517:INFO: Answering module over.
+2023-09-07 14:47:25,208:INFO: Logger Created
+2023-09-07 14:55:20,227:INFO: Start answering based on prompt: hello.
+2023-09-07 14:55:20,626:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 14:55:23,646:INFO: The returned answer is: 
+Answer: Hello! I'm sorry, I didn't find an answer to your question in the provided documents. Could you please rephrase your query with more details? I'm here to help you with any questions about Merged Approved Documents of Building Regulations.
+2023-09-07 14:55:23,648:INFO: Answering module over.
+2023-09-07 14:58:10,549:INFO: Start answering based on prompt: hello.
+2023-09-07 14:58:10,550:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 14:58:13,082:INFO: The returned answer is: 
+Answer: Hello! I'm sorry, I didn't find an answer to your question in the provided documents. Could you please rephrase your query with more details? I'm here to help you with any questions about Merged Approved Documents of Building Regulations.
+2023-09-07 14:58:13,082:INFO: Answering module over.
+2023-09-07 15:03:41,996:INFO: Logger Created
+2023-09-07 15:13:43,810:INFO: Logger Created
+2023-09-07 15:23:40,313:INFO: Logger Created
+2023-09-07 15:32:13,141:INFO: Logger Created
+2023-09-07 15:49:32,196:INFO: Logger Created
+2023-09-07 15:55:23,383:INFO: Start answering based on prompt: .
+2023-09-07 15:55:23,383:INFO: Start answering based on prompt: .
+2023-09-07 15:55:23,383:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 15:55:23,385:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 16:03:32,539:INFO: Start answering based on prompt: .
+2023-09-07 16:03:32,541:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 16:07:01,367:INFO: Logger Created
+2023-09-07 16:12:40,419:INFO: Start answering based on prompt: .
+2023-09-07 16:12:40,419:INFO: Start answering based on prompt: .
+2023-09-07 16:12:40,420:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 16:12:40,421:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 17:27:53,843:INFO: Logger Created
+2023-09-07 18:00:40,009:INFO: Start answering based on prompt: Hello!.
+2023-09-07 18:00:40,011:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 18:00:42,656:INFO: The returned answer is: 
+Hello! I'm your personal Bot assistant for answering any questions about Merged Approved Documents of Building Regulations. I'm here to help you. What can I do for you?
+2023-09-07 18:00:42,658:INFO: Answering module over.
+2023-09-07 18:04:15,775:INFO: Start answering based on prompt: Hello.
+2023-09-07 18:04:15,775:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 18:04:26,180:INFO: The returned answer is: 
+Hello! I'm your personal Bot assistant for answering any questions about Merged Approved Documents of Building Regulations. From the documents provided, I can tell you that: 
+
+- An external surface forming part of the wall is mentioned. 
+- A single person or people living together as a family is mentioned. 
+- Any windows and doors in the wall are mentioned. 
+- A maximum of six people living together as a single household, including where care is provided for residents is mentioned. 
+- A dwellinghouse does not include a flat or a building containing a flat. 
+- Any part of a roof pitched at an angle of more than 70 degrees to the horizontal if that part of the roof adjoins a space within the building to which persons have access, but not access only for the purpose of carrying out repairs or maintenance is mentioned. 
+- A firefighting lobby is a protected lobby that provides access from a firefighting stair to the accommodation area and to any associated firefighting lift. 
+- Final exit is the end of an escape route from a building that gives direct access to a street, passageway, walkway or open space, and is sited to ensure that people rapidly disperse away from the building so that they are no longer in danger from fire and/or smoke. 
+- In the Secretary of State’s view, optional requirement M4(2) will be met where a new dwelling makes reasonable provision
+2023-09-07 18:04:26,183:INFO: Answering module over.
+2023-09-07 18:04:37,860:INFO: Start answering based on prompt: What is this Document abou?t.
+2023-09-07 18:04:37,861:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 18:04:42,300:INFO: The returned answer is: 
+Answer: This document is one of a series that has been approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to and Regulation 7 of the Building Regulations 2010 (SI 2010/2214) for England and Wales. It provides guidance on meeting the requirements imposed by Schedule 1 to the Building Regulations on materials and workmanship. It also provides guidance on the matters that may be addressed by Building Regulations, such as prevention of the contamination of water, resistance to the passage of sound, access to and use of buildings, and the conservation of fuel and power. 
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-07 18:04:42,301:INFO: Answering module over.
+2023-09-07 18:07:44,810:INFO: Start answering based on prompt: give  the list of approved Documents ?.
+2023-09-07 18:07:44,815:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 18:07:51,939:INFO: The returned answer is: 
+Answer: The list of approved documents includes: 
+- Part A: Structure 
+- Part B: Fire Safety 
+- Part C: Site Preparation and Resistance to Contaminants and Moisture 
+- Part D: Toxic Substances 
+- Part E: Resistance to the Passage of Sound 
+- Part F: Ventilation 
+- Part G: Hygiene 
+- Part H: Drainage and Waste Disposal 
+- Part J: Combustion Appliances and Fuel Storage Systems 
+- Part K: Protection from Falling, Collision and Impact 
+- Part L: Conservation of Fuel and Power 
+- Part M: Access to and Use of Buildings 
+- Part N: Glazing – Safety in Relation to Impact, Opening and Cleaning 
+- Part P: Electrical Safety 
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-07 18:07:51,941:INFO: Answering module over.
+2023-09-07 18:08:04,335:INFO: Start answering based on prompt: What does D.
+2023-09-07 18:08:04,337:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 18:08:08,277:INFO: The returned answer is: 
+Answer: The letter D in the documents refers to Appendix D, which provides information on methods of measurement and specifications for a home built with a heat pump. In particular, it provides information on the number of occupants of a room, storey, building or part of a building, the equivalent area of a window, and the target primary energy rate and target emission rate. 
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-07 18:08:08,280:INFO: Answering module over.
+2023-09-07 18:08:19,616:INFO: Start answering based on prompt: What does Drainage and Waste Disposal?.
+2023-09-07 18:08:19,617:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 18:08:22,657:INFO: The returned answer is: 
+Answer: Drainage and Waste Disposal refers to the collection, treatment, and disposal of wastewater and other solid waste. This includes the design and installation of systems for the collection and disposal of wastewater, such as septic tanks, drainage fields, and wastewater treatment systems. It also includes the design and installation of systems for the storage and disposal of solid waste, such as secure storage areas, gullies, and secure containers.
+2023-09-07 18:08:22,659:INFO: Answering module over.
+2023-09-07 18:08:29,310:INFO: Start answering based on prompt: What does Drainage and Waste Disposal focus on ?.
+2023-09-07 18:08:29,312:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 18:08:32,818:INFO: The returned answer is: 
+Answer: Drainage and Waste Disposal focuses on the provision of a system for the collection and disposal of wastewater and solid waste. It covers topics such as waste storage areas, drainage fields, cesspools, wastewater treatment systems, and maintenance requirements. It also provides guidance on the general principles relating to capacity, siting and ventilation of cesspools and wastewater treatment systems. 
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-07 18:08:32,820:INFO: Answering module over.
+2023-09-07 18:08:54,654:INFO: Start answering based on prompt: what  are its advantages and disadvantages ?.
+2023-09-07 18:08:54,655:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 18:09:03,778:INFO: The returned answer is: 
+Advantages of Merged Approved Documents of Building Regulations:
+- Built-in wardrobes and shelving are accessible and convenient to use
+- Curtains and blinds are provided with automatic or other remotely controlled opening devices
+- Sleeping accommodation is designed to be convenient for all, including wheelchair users
+- Historic buildings are conserved and improved for accessibility where and to the extent that it is practically possible
+- Suitable accommodation for people in wheelchairs or with other disabilities in audience or spectator seating
+- Toilets are located on each floor to help people with learning difficulties to locate them easily
+- Greater spacing between rows of seats at the rear of a block of seating, or at the end of rows, may provide extra legroom for people of large stature
+- Seating contrasts visually with the surroundings
+- All users of facilities can locate suitable seating and move safely and easily to and from the seating area and ancillary accommodation
+
+Disadvantages of Merged Approved Documents of Building Regulations:
+- Not all historic buildings can be improved for accessibility due to the risk of long-term deterioration to the building fabric or fittings
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-07 18:09:03,780:INFO: Answering module over.
+2023-09-07 18:13:27,036:INFO: Start answering based on prompt: hello.
+2023-09-07 18:13:27,038:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 18:13:28,720:INFO: The returned answer is: 
+Hello! I'm your personal Bot assistant for answering any questions about Merged Approved Documents of Building Regulations. How can I help you?
+2023-09-07 18:13:28,722:INFO: Answering module over.
+2023-09-07 18:14:15,230:INFO: Logger Created
+2023-09-07 18:19:11,675:INFO: Start answering based on prompt: hello.
+2023-09-07 18:19:11,818:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 18:19:13,744:INFO: The returned answer is: 
+Hello! I'm your personal Bot assistant for answering any questions about Merged Approved Documents of Building Regulations. How can I help you?
+2023-09-07 18:19:13,746:INFO: Answering module over.
+2023-09-07 19:32:17,214:INFO: Start answering based on prompt: Hello.
+2023-09-07 19:32:17,216:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 19:32:19,407:INFO: The returned answer is: 
+Hello! I'm your personal Bot assistant for answering any questions about Merged Approved Documents of Building Regulations. How can I help you?
+2023-09-07 19:32:19,407:INFO: Answering module over.
+2023-09-07 19:32:32,834:INFO: Start answering based on prompt: What is this Document document?.
+2023-09-07 19:32:32,837:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 19:32:35,882:INFO: The returned answer is: 
+This document is an Approved Document issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to, and Regulation 7 of, the Building Regulations 2010 (SI 2010/2214) for England and Wales. It provides guidance on materials and workmanship, and includes a list of all the documents that have been approved and issued by the Secretary of State for this purpose.
+
+I hope this answers your question. If you need any further help, please let me know.
+2023-09-07 19:32:35,884:INFO: Answering module over.
+2023-09-07 19:32:52,838:INFO: Start answering based on prompt: Give the list of approved documents?.
+2023-09-07 19:32:52,839:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 19:32:58,125:INFO: The returned answer is: 
+Answer: The list of approved documents includes: 
+- Part A: Structure 
+- Part B: Fire Safety 
+- Part C: Site Preparation and Resistance to Contaminants and Moisture 
+- Part D: Toxic Substances 
+- Part E: Resistance to the Passage of Sound 
+- Part F: Ventilation 
+- Part G: Hygiene 
+- Part H: Drainage and Waste Disposal 
+- Part J: Combustion Appliances and Fuel Storage Systems 
+- Part K: Protection from Falling, Collision and Impact 
+- Part L: Conservation of Fuel and Power 
+- Part M: Access to and Use of Buildings 
+- Part N: Glazing - Safety in Relation to Impact, Opening and Cleaning 
+- Part P: Electrical Safety 
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-07 19:32:58,133:INFO: Answering module over.
+2023-09-07 19:33:16,717:INFO: Start answering based on prompt: What does Ventilation part F focus on?.
+2023-09-07 19:33:16,718:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 19:33:22,995:INFO: The returned answer is: 
+Answer: Part F of the Building Regulations focuses on providing adequate ventilation in buildings other than dwellings. It requires that ventilation systems should be designed to meet the performance criteria given in Appendix B, and that manual controls should be within reasonable reach of the occupants (as per Approved Documents K and M). It also sets minimum standards for purge ventilation for rapidly diluting indoor air pollutants and extracting water vapour where necessary. If the building is a domestic-type building, Part O may require a higher standard than the guidance given in this document for purge ventilation to remove excess heat. In this case, the higher of the two standards should be followed. 
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-07 19:33:22,996:INFO: Answering module over.
+2023-09-07 19:33:56,942:INFO: Start answering based on prompt: how to extraact water vapour?.
+2023-09-07 19:33:56,944:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 19:34:01,163:INFO: The returned answer is: 
+Unfortunately, the documents provided do not provide any information on how to extract water vapour. Please rephrase your query with more details so that I can provide you with the best answer. If you need any help with anything else, please let me know.
+2023-09-07 19:34:01,164:INFO: Answering module over.
+2023-09-07 19:34:16,357:INFO: Start answering based on prompt: what is  purge ventilation?.
+2023-09-07 19:34:16,358:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 19:34:20,042:INFO: The returned answer is: 
+Answer: Purge ventilation is a type of manually controlled ventilation of rooms or spaces at a relatively high rate to rapidly dilute pollutants and/or disperse water vapour. It can be provided by natural means (e.g. an openable window) or mechanical means (e.g. a fan). The minimum total area of openings for hinged or pivot windows with an opening angle of 15 to 30 degrees is 1/10 of the floor area of the room. 
+
+If you need any further help or have any other questions, please let me know.
+2023-09-07 19:34:20,043:INFO: Answering module over.
+2023-09-07 19:34:38,438:INFO: Start answering based on prompt: what is disperse water vapour?.
+2023-09-07 19:34:38,441:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-07 19:34:44,205:INFO: The returned answer is: 
+Disperse water vapour is the process of diluting, dispersing, and removing water vapour and pollutants from a building or space through ventilation. This is typically done through a combination of extract ventilation, whole building ventilation, and purge ventilation. Extract ventilation is used to remove water vapour and pollutants from specific rooms, while whole building ventilation is used to provide fresh air to the building and disperse water vapour and pollutants. Purge ventilation is used to remove high concentrations of pollutants and water vapour. 
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-07 19:34:44,207:INFO: Answering module over.
+2023-09-09 16:12:58,578:INFO: Start answering based on prompt: what is disperse water vapour?.
+2023-09-09 16:12:58,579:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-11 14:34:58,997:INFO: Logger Created
+2023-09-11 14:40:11,617:INFO: Logger Created
+2023-09-11 14:57:27,575:INFO: Start answering based on prompt: Hello.
+2023-09-11 14:57:27,576:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-11 14:57:28,971:INFO: The returned answer is: 
+Hello! I'm your personal Bot assistant for answering any questions about Merged Approved Documents of Building Regulations. How can I help you?
+2023-09-11 14:57:28,973:INFO: Answering module over.
+2023-09-12 17:46:03,987:INFO: Logger Created
+2023-09-12 17:46:03,987:INFO: Logger Created
+2023-09-12 17:52:22,501:INFO: Start answering based on prompt: Hello.
+2023-09-12 17:52:22,501:INFO: Start answering based on prompt: Hello.
+2023-09-12 17:52:22,660:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 17:52:22,660:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 17:52:30,131:INFO: The returned answer is: 
+Hello! I'm here to help you with any questions you may have about Merged Approved Documents of Building Regulations. 
+
+From the documents provided, I can tell you that: 
+- Wheelchair users and those with mobility or sensory impairment should be provided with spaces into which they can manoeuvre easily, and which offer them a clear view of an event, while ensuring they are not segregated into special areas. 
+- Wheelchair users, people who have difficulty in using seats with fixed arms and those with assistance dogs should also have the choice of sitting next to a conventionally seated person or a companion wheelchair user. 
+- Consideration should be given to providing an area next to certain seats for an assistance dog to rest. 
+- Good acoustic design should be employed to achieve an acoustic environment that is neither too reverberant nor too absorbent so that announcements and conversations can be heard clearly. 
+- Any door from a unisex wheelchair-accessible toilet projects when open into a corridor that is not a major access route or an escape route, provided the corridor is at least 1800mm wide at that point. 
+- On a major access route or an escape route, the wider leaf of a series of double doors with leaves of unequal width is on the same side of the corridor throughout the length of the corridor. 
+- Elements such as columns, radiators and fire hoses should not project into the corridor, or where this is unavoidable, a
+2023-09-12 17:52:30,131:INFO: The returned answer is: 
+Hello! I'm here to help you with any questions you may have about Merged Approved Documents of Building Regulations. 
+
+From the documents provided, I can tell you that: 
+- Wheelchair users and those with mobility or sensory impairment should be provided with spaces into which they can manoeuvre easily, and which offer them a clear view of an event, while ensuring they are not segregated into special areas. 
+- Wheelchair users, people who have difficulty in using seats with fixed arms and those with assistance dogs should also have the choice of sitting next to a conventionally seated person or a companion wheelchair user. 
+- Consideration should be given to providing an area next to certain seats for an assistance dog to rest. 
+- Good acoustic design should be employed to achieve an acoustic environment that is neither too reverberant nor too absorbent so that announcements and conversations can be heard clearly. 
+- Any door from a unisex wheelchair-accessible toilet projects when open into a corridor that is not a major access route or an escape route, provided the corridor is at least 1800mm wide at that point. 
+- On a major access route or an escape route, the wider leaf of a series of double doors with leaves of unequal width is on the same side of the corridor throughout the length of the corridor. 
+- Elements such as columns, radiators and fire hoses should not project into the corridor, or where this is unavoidable, a
+2023-09-12 17:52:30,134:INFO: Answering module over.
+2023-09-12 17:52:30,134:INFO: Answering module over.
+2023-09-12 18:07:55,049:INFO: Start answering based on prompt: hello.
+2023-09-12 18:07:55,049:INFO: Start answering based on prompt: hello.
+2023-09-12 18:07:55,051:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 18:07:55,051:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 18:07:57,693:INFO: The returned answer is: 
+Hello! I'm your personal Bot assistant for answering any questions about Merged Approved Documents of Building Regulations. I'm here to help you. Is there anything specific I can help you with?
+2023-09-12 18:07:57,693:INFO: The returned answer is: 
+Hello! I'm your personal Bot assistant for answering any questions about Merged Approved Documents of Building Regulations. I'm here to help you. Is there anything specific I can help you with?
+2023-09-12 18:07:57,694:INFO: Answering module over.
+2023-09-12 18:07:57,694:INFO: Answering module over.
+2023-09-12 18:08:07,604:INFO: Start answering based on prompt: what is this document is bout?.
+2023-09-12 18:08:07,604:INFO: Start answering based on prompt: what is this document is bout?.
+2023-09-12 18:08:07,606:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 18:08:07,606:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 18:08:14,172:INFO: The returned answer is: 
+This document is part of a series of documents approved and issued by the Secretary of State to provide practical guidance with respect to the requirements of Schedule 1 and Regulation 7 of the Building Regulations 2010 (SI 2010/2215) for England and Wales. It provides guidance on materials and workmanship, and a list of all the documents that have been approved and issued by the Secretary of State for this purpose.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 18:08:14,172:INFO: The returned answer is: 
+This document is part of a series of documents approved and issued by the Secretary of State to provide practical guidance with respect to the requirements of Schedule 1 and Regulation 7 of the Building Regulations 2010 (SI 2010/2215) for England and Wales. It provides guidance on materials and workmanship, and a list of all the documents that have been approved and issued by the Secretary of State for this purpose.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 18:08:14,173:INFO: Answering module over.
+2023-09-12 18:08:14,173:INFO: Answering module over.
+2023-09-12 18:08:39,284:INFO: Start answering based on prompt: what is this document is  focus on?.
+2023-09-12 18:08:39,284:INFO: Start answering based on prompt: what is this document is  focus on?.
+2023-09-12 18:08:39,285:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 18:08:39,285:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 18:08:42,851:INFO: The returned answer is: 
+This document is focused on providing practical guidance with respect to the requirements of Schedule 1 and Regulation 7 of the Building Regulations 2010 (SI 2010/2215) for England and Wales. It also provides guidance on prevention of the contamination of water, resistance to the passage of sound, access to and use of buildings, and the conservation of fuel and power. 
+
+If you have any other questions, please let me know and I will be happy to help.
+2023-09-12 18:08:42,851:INFO: The returned answer is: 
+This document is focused on providing practical guidance with respect to the requirements of Schedule 1 and Regulation 7 of the Building Regulations 2010 (SI 2010/2215) for England and Wales. It also provides guidance on prevention of the contamination of water, resistance to the passage of sound, access to and use of buildings, and the conservation of fuel and power. 
+
+If you have any other questions, please let me know and I will be happy to help.
+2023-09-12 18:08:42,852:INFO: Answering module over.
+2023-09-12 18:08:42,852:INFO: Answering module over.
+2023-09-12 19:50:17,921:INFO: Start answering based on prompt: Hello.
+2023-09-12 19:50:17,921:INFO: Start answering based on prompt: Hello.
+2023-09-12 19:50:17,925:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:50:17,925:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:50:27,108:INFO: The returned answer is: 
+Hello! I'm here to help you with any questions you may have about Merged Approved Documents of Building Regulations. 
+
+From the documents provided, I can tell you that: 
+- Wheelchair users and those with mobility or sensory impairment should be provided with spaces into which they can manoeuvre easily, and which offer them a clear view of an event, while ensuring they are not segregated into special areas. 
+- Wheelchair users, people who have difficulty in using seats with fixed arms and those with assistance dogs should also have the choice of sitting next to a conventionally seated person or a companion wheelchair user. 
+- Consideration should be given to providing an area next to certain seats for an assistance dog to rest. 
+- Good acoustic design should be employed to achieve an acoustic environment that is neither too reverberant nor too absorbent so that announcements and conversations can be heard clearly. 
+- Any door from a unisex wheelchair-accessible toilet projects when open into a corridor that is not a major access route or an escape route, provided the corridor is at least 1800mm wide at that point. 
+- On a major access route or an escape route, the wider leaf of a series of double doors with leaves of unequal width is on the same side of the corridor throughout the length of the corridor. 
+- Elements such as columns, radiators and fire hoses should not project into the corridor, or where this is unavoidable, a
+2023-09-12 19:50:27,108:INFO: The returned answer is: 
+Hello! I'm here to help you with any questions you may have about Merged Approved Documents of Building Regulations. 
+
+From the documents provided, I can tell you that: 
+- Wheelchair users and those with mobility or sensory impairment should be provided with spaces into which they can manoeuvre easily, and which offer them a clear view of an event, while ensuring they are not segregated into special areas. 
+- Wheelchair users, people who have difficulty in using seats with fixed arms and those with assistance dogs should also have the choice of sitting next to a conventionally seated person or a companion wheelchair user. 
+- Consideration should be given to providing an area next to certain seats for an assistance dog to rest. 
+- Good acoustic design should be employed to achieve an acoustic environment that is neither too reverberant nor too absorbent so that announcements and conversations can be heard clearly. 
+- Any door from a unisex wheelchair-accessible toilet projects when open into a corridor that is not a major access route or an escape route, provided the corridor is at least 1800mm wide at that point. 
+- On a major access route or an escape route, the wider leaf of a series of double doors with leaves of unequal width is on the same side of the corridor throughout the length of the corridor. 
+- Elements such as columns, radiators and fire hoses should not project into the corridor, or where this is unavoidable, a
+2023-09-12 19:50:27,112:INFO: Answering module over.
+2023-09-12 19:50:27,112:INFO: Answering module over.
+2023-09-12 19:50:39,233:INFO: Start answering based on prompt: hello.
+2023-09-12 19:50:39,233:INFO: Start answering based on prompt: hello.
+2023-09-12 19:50:39,234:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:50:39,234:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:50:41,159:INFO: The returned answer is: 
+Hello! I'm your personal Bot assistant for answering any questions about Merged Approved Documents of Building Regulations. I'm here to help you. Is there anything specific I can help you with?
+2023-09-12 19:50:41,159:INFO: The returned answer is: 
+Hello! I'm your personal Bot assistant for answering any questions about Merged Approved Documents of Building Regulations. I'm here to help you. Is there anything specific I can help you with?
+2023-09-12 19:50:41,159:INFO: Answering module over.
+2023-09-12 19:50:41,159:INFO: Answering module over.
+2023-09-12 19:50:49,696:INFO: Start answering based on prompt: What is this document about?.
+2023-09-12 19:50:49,696:INFO: Start answering based on prompt: What is this document about?.
+2023-09-12 19:50:49,697:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:50:49,697:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:50:54,388:INFO: The returned answer is: 
+Answer: This document is part of a series of documents approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to and Regulation 7 of the Building Regulations 2010 (SI 2010/2214) for England and Wales. It provides guidance on meeting the requirements imposed by Schedule 1 to the Building Regulations on materials and workmanship. It also includes a list of all the documents that have been approved and issued by the Secretary of State for this purpose.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 19:50:54,388:INFO: The returned answer is: 
+Answer: This document is part of a series of documents approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to and Regulation 7 of the Building Regulations 2010 (SI 2010/2214) for England and Wales. It provides guidance on meeting the requirements imposed by Schedule 1 to the Building Regulations on materials and workmanship. It also includes a list of all the documents that have been approved and issued by the Secretary of State for this purpose.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 19:50:54,391:INFO: Answering module over.
+2023-09-12 19:50:54,391:INFO: Answering module over.
+2023-09-12 19:51:02,980:INFO: Start answering based on prompt: Give the list of approved documents?.
+2023-09-12 19:51:02,980:INFO: Start answering based on prompt: Give the list of approved documents?.
+2023-09-12 19:51:02,982:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:51:02,982:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:51:08,876:INFO: The returned answer is: 
+Answer: The list of approved documents includes:
+- Part A: Structure
+- Part B: Fire Safety
+- Part C: Site Preparation and Resistance to Contaminants and Moisture
+- Part D: Toxic Substances
+- Part E: Resistance to the Passage of Sound
+- Part F: Ventilation
+- Part G: Hygiene
+- Part H: Drainage and Waste Disposal
+- Part J: Combustion Appliances and Fuel Storage Systems
+- Part K: Protection from Falling, Collision and Impact
+- Part L: Conservation of Fuel and Power
+- Part M: Access to and Use of Buildings
+- Part N: Glazing - Safety in Relation to Impact, Opening and Cleaning
+- Part P: Electrical Safety
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 19:51:08,876:INFO: The returned answer is: 
+Answer: The list of approved documents includes:
+- Part A: Structure
+- Part B: Fire Safety
+- Part C: Site Preparation and Resistance to Contaminants and Moisture
+- Part D: Toxic Substances
+- Part E: Resistance to the Passage of Sound
+- Part F: Ventilation
+- Part G: Hygiene
+- Part H: Drainage and Waste Disposal
+- Part J: Combustion Appliances and Fuel Storage Systems
+- Part K: Protection from Falling, Collision and Impact
+- Part L: Conservation of Fuel and Power
+- Part M: Access to and Use of Buildings
+- Part N: Glazing - Safety in Relation to Impact, Opening and Cleaning
+- Part P: Electrical Safety
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 19:51:08,878:INFO: Answering module over.
+2023-09-12 19:51:08,878:INFO: Answering module over.
+2023-09-12 19:52:53,040:INFO: Start answering based on prompt: Give the list of approved documents.
+2023-09-12 19:52:53,040:INFO: Start answering based on prompt: Give the list of approved documents.
+2023-09-12 19:52:53,042:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:52:53,042:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:52:57,835:INFO: The returned answer is: 
+The list of approved documents includes:
+- Part A: Structure
+- Part B: Fire Safety
+- Part C: Site Preparation and Resistance to Contaminants and Moisture
+- Part D: Toxic Substances
+- Part E: Resistance to the Passage of Sound
+- Part F: Ventilation
+- Part G: Hygiene
+- Part H: Drainage and Waste Disposal
+- Part J: Combustion Appliances and Fuel Storage Systems
+- Part K: Protection from Falling, Collision and Impact
+- Part L: Conservation of Fuel and Power
+- Part M: Access to and Use of Buildings
+- Part N: Glazing – Safety in Relation to Impact, Opening and Cleaning
+- Part P: Electrical Safety
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 19:52:57,835:INFO: The returned answer is: 
+The list of approved documents includes:
+- Part A: Structure
+- Part B: Fire Safety
+- Part C: Site Preparation and Resistance to Contaminants and Moisture
+- Part D: Toxic Substances
+- Part E: Resistance to the Passage of Sound
+- Part F: Ventilation
+- Part G: Hygiene
+- Part H: Drainage and Waste Disposal
+- Part J: Combustion Appliances and Fuel Storage Systems
+- Part K: Protection from Falling, Collision and Impact
+- Part L: Conservation of Fuel and Power
+- Part M: Access to and Use of Buildings
+- Part N: Glazing – Safety in Relation to Impact, Opening and Cleaning
+- Part P: Electrical Safety
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 19:52:57,843:INFO: Answering module over.
+2023-09-12 19:52:57,843:INFO: Answering module over.
+2023-09-12 19:53:22,262:INFO: Start answering based on prompt: hello.
+2023-09-12 19:53:22,262:INFO: Start answering based on prompt: hello.
+2023-09-12 19:53:22,264:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:53:22,264:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:53:23,950:INFO: The returned answer is: 
+Hello! I'm your personal Bot assistant for answering any questions about Merged Approved Documents of Building Regulations. I'm here to help you. Is there anything specific I can help you with?
+2023-09-12 19:53:23,950:INFO: The returned answer is: 
+Hello! I'm your personal Bot assistant for answering any questions about Merged Approved Documents of Building Regulations. I'm here to help you. Is there anything specific I can help you with?
+2023-09-12 19:53:23,953:INFO: Answering module over.
+2023-09-12 19:53:23,953:INFO: Answering module over.
+2023-09-12 19:53:34,115:INFO: Start answering based on prompt: what is this document about?.
+2023-09-12 19:53:34,115:INFO: Start answering based on prompt: what is this document about?.
+2023-09-12 19:53:34,116:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:53:34,116:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:53:38,633:INFO: The returned answer is: 
+Answer: This document is part of a series of documents approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to and Regulation 7 of the Building Regulations 2010 for England and Wales (SI 2010/2214). It provides guidance on meeting the requirements on materials and workmanship imposed by Schedule 1 to the Building Regulations. It also provides guidance on matters such as prevention of the contamination of water, resistance to the passage of sound, access to and use of buildings, and the conservation of fuel and power. At the back of this document is a list of all the documents that have been approved and issued by the Secretary of State for this purpose.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 19:53:38,633:INFO: The returned answer is: 
+Answer: This document is part of a series of documents approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to and Regulation 7 of the Building Regulations 2010 for England and Wales (SI 2010/2214). It provides guidance on meeting the requirements on materials and workmanship imposed by Schedule 1 to the Building Regulations. It also provides guidance on matters such as prevention of the contamination of water, resistance to the passage of sound, access to and use of buildings, and the conservation of fuel and power. At the back of this document is a list of all the documents that have been approved and issued by the Secretary of State for this purpose.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 19:53:38,636:INFO: Answering module over.
+2023-09-12 19:53:38,636:INFO: Answering module over.
+2023-09-12 19:53:54,525:INFO: Start answering based on prompt: Give the list of approved documents?.
+2023-09-12 19:53:54,525:INFO: Start answering based on prompt: Give the list of approved documents?.
+2023-09-12 19:53:54,527:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:53:54,527:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:54:00,505:INFO: The returned answer is: 
+Answer: The list of approved documents includes:
+- Part A: Structure
+- Part B: Fire Safety
+- Part C: Site Preparation and Resistance to Contaminants and Moisture
+- Part D: Toxic Substances
+- Part E: Resistance to the Passage of Sound
+- Part F: Ventilation
+- Part G: Hygiene
+- Part H: Drainage and Waste Disposal
+- Part J: Combustion Appliances and Fuel Storage Systems
+- Part K: Protection from Falling, Collision and Impact
+- Part L: Conservation of Fuel and Power
+- Part M: Access to and Use of Buildings
+- Part N: Glazing - Safety in Relation to Impact, Opening and Cleaning
+- Part P: Electrical Safety
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 19:54:00,505:INFO: The returned answer is: 
+Answer: The list of approved documents includes:
+- Part A: Structure
+- Part B: Fire Safety
+- Part C: Site Preparation and Resistance to Contaminants and Moisture
+- Part D: Toxic Substances
+- Part E: Resistance to the Passage of Sound
+- Part F: Ventilation
+- Part G: Hygiene
+- Part H: Drainage and Waste Disposal
+- Part J: Combustion Appliances and Fuel Storage Systems
+- Part K: Protection from Falling, Collision and Impact
+- Part L: Conservation of Fuel and Power
+- Part M: Access to and Use of Buildings
+- Part N: Glazing - Safety in Relation to Impact, Opening and Cleaning
+- Part P: Electrical Safety
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 19:54:00,507:INFO: Answering module over.
+2023-09-12 19:54:00,507:INFO: Answering module over.
+2023-09-12 19:55:15,877:INFO: Start answering based on prompt: What does Part D focus on?.
+2023-09-12 19:55:15,877:INFO: Start answering based on prompt: What does Part D focus on?.
+2023-09-12 19:55:15,880:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:55:15,880:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:55:18,126:INFO: The returned answer is: 
+Answer: Part D of the Merged Approved Documents of Building Regulations focuses on the provision or extension of controlled services or fittings. It also covers the requirements for securing reasonable standards of health and safety for persons in or about buildings (and any others who may be affected by buildings or matters connected with buildings). 
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 19:55:18,126:INFO: The returned answer is: 
+Answer: Part D of the Merged Approved Documents of Building Regulations focuses on the provision or extension of controlled services or fittings. It also covers the requirements for securing reasonable standards of health and safety for persons in or about buildings (and any others who may be affected by buildings or matters connected with buildings). 
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 19:55:18,127:INFO: Answering module over.
+2023-09-12 19:55:18,127:INFO: Answering module over.
+2023-09-12 19:56:23,947:INFO: Start answering based on prompt: hello.
+2023-09-12 19:56:23,947:INFO: Start answering based on prompt: hello.
+2023-09-12 19:56:23,948:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:56:23,948:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:56:25,996:INFO: The returned answer is: 
+Hello! I'm your personal Bot assistant for answering any questions about Merged Approved Documents of Building Regulations. I'm here to help you. Could you please provide more details about your question so that I can help you better?
+2023-09-12 19:56:25,996:INFO: The returned answer is: 
+Hello! I'm your personal Bot assistant for answering any questions about Merged Approved Documents of Building Regulations. I'm here to help you. Could you please provide more details about your question so that I can help you better?
+2023-09-12 19:56:25,996:INFO: Answering module over.
+2023-09-12 19:56:25,996:INFO: Answering module over.
+2023-09-12 19:56:35,366:INFO: Start answering based on prompt: What is this document about?.
+2023-09-12 19:56:35,366:INFO: Start answering based on prompt: What is this document about?.
+2023-09-12 19:56:35,367:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:56:35,367:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:56:38,475:INFO: The returned answer is: 
+Answer: This document is part of a series of documents approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to and Regulation 7 of the Building Regulations 2010 (SI 2010/2214) for England and Wales. It provides guidance on meeting the requirements imposed by Schedule 1 to the Building Regulations on materials and workmanship. It also includes a list of all the documents that have been approved and issued by the Secretary of State for this purpose.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 19:56:38,475:INFO: The returned answer is: 
+Answer: This document is part of a series of documents approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to and Regulation 7 of the Building Regulations 2010 (SI 2010/2214) for England and Wales. It provides guidance on meeting the requirements imposed by Schedule 1 to the Building Regulations on materials and workmanship. It also includes a list of all the documents that have been approved and issued by the Secretary of State for this purpose.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 19:56:38,478:INFO: Answering module over.
+2023-09-12 19:56:38,478:INFO: Answering module over.
+2023-09-12 19:57:21,523:INFO: Start answering based on prompt: Give the list of Approved Documents?.
+2023-09-12 19:57:21,523:INFO: Start answering based on prompt: Give the list of Approved Documents?.
+2023-09-12 19:57:21,525:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:57:21,525:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:57:26,839:INFO: The returned answer is: 
+The list of Approved Documents is as follows: 
+
+- Approved Document M Access to and use of buildings Volume 1: Dwellings Volume 2: Buildings other than dwellings
+- Approved Document P Electrical safety – Dwellings
+- Approved Document A Structure
+- Approved Document Q Security – Dwellings
+- Approved Document B Fire safety Volume 1: Dwellings Volume 2: Buildings other than dwellings
+- Approved Document R Physical infrastructure for high-speed electronic communications networks
+- Approved Document C Site preparation and resistance to contaminants and moisture
+- Approved Document 7 Materials and workmanship
+- Approved Document D Toxic substances
+- Approved Document E Resistance to the passage of sound
+- Approved Document F Ventilation
+- Approved Document G Sanitation, hot water safety and water efficiency
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 19:57:26,839:INFO: The returned answer is: 
+The list of Approved Documents is as follows: 
+
+- Approved Document M Access to and use of buildings Volume 1: Dwellings Volume 2: Buildings other than dwellings
+- Approved Document P Electrical safety – Dwellings
+- Approved Document A Structure
+- Approved Document Q Security – Dwellings
+- Approved Document B Fire safety Volume 1: Dwellings Volume 2: Buildings other than dwellings
+- Approved Document R Physical infrastructure for high-speed electronic communications networks
+- Approved Document C Site preparation and resistance to contaminants and moisture
+- Approved Document 7 Materials and workmanship
+- Approved Document D Toxic substances
+- Approved Document E Resistance to the passage of sound
+- Approved Document F Ventilation
+- Approved Document G Sanitation, hot water safety and water efficiency
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 19:57:26,846:INFO: Answering module over.
+2023-09-12 19:57:26,846:INFO: Answering module over.
+2023-09-12 19:58:38,734:INFO: Start answering based on prompt: helllo.
+2023-09-12 19:58:38,734:INFO: Start answering based on prompt: helllo.
+2023-09-12 19:58:38,736:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:58:38,736:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:58:41,852:INFO: The returned answer is: 
+Sorry, I didn't understand your question. Could you please rephrase it with more details? I'm here to help you with any questions about Merged Approved Documents of Building Regulations.
+2023-09-12 19:58:41,852:INFO: The returned answer is: 
+Sorry, I didn't understand your question. Could you please rephrase it with more details? I'm here to help you with any questions about Merged Approved Documents of Building Regulations.
+2023-09-12 19:58:41,854:INFO: Answering module over.
+2023-09-12 19:58:41,854:INFO: Answering module over.
+2023-09-12 19:59:03,067:INFO: Start answering based on prompt: What is this document about?.
+2023-09-12 19:59:03,067:INFO: Start answering based on prompt: What is this document about?.
+2023-09-12 19:59:03,069:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:59:03,069:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:59:06,309:INFO: The returned answer is: 
+Answer: This document is part of a series of documents approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to and Regulation 7 of the Building Regulations 2010 (SI 2010/2214) for England and Wales. It provides guidance on meeting the requirements imposed by Schedule 1 to the Building Regulations on materials and workmanship. It also includes a list of all the documents that have been approved and issued by the Secretary of State for this purpose.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 19:59:06,309:INFO: The returned answer is: 
+Answer: This document is part of a series of documents approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to and Regulation 7 of the Building Regulations 2010 (SI 2010/2214) for England and Wales. It provides guidance on meeting the requirements imposed by Schedule 1 to the Building Regulations on materials and workmanship. It also includes a list of all the documents that have been approved and issued by the Secretary of State for this purpose.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 19:59:06,311:INFO: Answering module over.
+2023-09-12 19:59:06,311:INFO: Answering module over.
+2023-09-12 19:59:21,583:INFO: Start answering based on prompt: Give the list of documents?.
+2023-09-12 19:59:21,583:INFO: Start answering based on prompt: Give the list of documents?.
+2023-09-12 19:59:21,583:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:59:21,583:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 19:59:29,549:INFO: The returned answer is: 
+Answer: The list of documents approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to, and Regulation 7 of, the Building Regulations 2010 (SI 2010/2214) for England and Wales are: 
+
+- Approved Document A: Structure
+- Approved Document B: Fire Safety
+- Approved Document C: Site Preparation and Resistance to Contaminants and Moisture
+- Approved Document D: Toxic Substances
+- Approved Document E: Resistance to the Passage of Sound
+- Approved Document F: Ventilation
+- Approved Document G: Hygiene
+- Approved Document H: Drainage and Waste Disposal
+- Approved Document J: Combustion Appliances and Fuel Storage
+- Approved Document K: Protection from Falling, Collision and Impact
+- Approved Document L: Conservation of Fuel and Power
+- Approved Document M: Access to and Use of Buildings
+- Approved Document N: Glazing - Safety in Relation to Impact, Opening and Cleaning
+- Approved Document P: Electrical Safety
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 19:59:29,549:INFO: The returned answer is: 
+Answer: The list of documents approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to, and Regulation 7 of, the Building Regulations 2010 (SI 2010/2214) for England and Wales are: 
+
+- Approved Document A: Structure
+- Approved Document B: Fire Safety
+- Approved Document C: Site Preparation and Resistance to Contaminants and Moisture
+- Approved Document D: Toxic Substances
+- Approved Document E: Resistance to the Passage of Sound
+- Approved Document F: Ventilation
+- Approved Document G: Hygiene
+- Approved Document H: Drainage and Waste Disposal
+- Approved Document J: Combustion Appliances and Fuel Storage
+- Approved Document K: Protection from Falling, Collision and Impact
+- Approved Document L: Conservation of Fuel and Power
+- Approved Document M: Access to and Use of Buildings
+- Approved Document N: Glazing - Safety in Relation to Impact, Opening and Cleaning
+- Approved Document P: Electrical Safety
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 19:59:29,552:INFO: Answering module over.
+2023-09-12 19:59:29,552:INFO: Answering module over.
+2023-09-12 20:00:32,961:INFO: Start answering based on prompt: what does  approved document D focus on?.
+2023-09-12 20:00:32,961:INFO: Start answering based on prompt: what does  approved document D focus on?.
+2023-09-12 20:00:32,962:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 20:00:32,962:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 20:00:38,166:INFO: The returned answer is: 
+Answer: Approved Document D focuses on the requirements of the Building Regulations related to cavity insulation. It provides guidance on how to meet the requirements of the Building Regulations related to cavity insulation, including the use of guidance from the Workplace (Health, Safety and Welfare) Regulations 1992. 
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 20:00:38,166:INFO: The returned answer is: 
+Answer: Approved Document D focuses on the requirements of the Building Regulations related to cavity insulation. It provides guidance on how to meet the requirements of the Building Regulations related to cavity insulation, including the use of guidance from the Workplace (Health, Safety and Welfare) Regulations 1992. 
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 20:00:38,168:INFO: Answering module over.
+2023-09-12 20:00:38,168:INFO: Answering module over.
+2023-09-12 20:00:57,378:INFO: Start answering based on prompt: hello.
+2023-09-12 20:00:57,378:INFO: Start answering based on prompt: hello.
+2023-09-12 20:00:57,380:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 20:00:57,380:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 20:00:59,937:INFO: The returned answer is: 
+Hello! I'm your personal Bot assistant for answering any questions about Merged Approved Documents of Building Regulations. How can I help you?
+2023-09-12 20:00:59,937:INFO: The returned answer is: 
+Hello! I'm your personal Bot assistant for answering any questions about Merged Approved Documents of Building Regulations. How can I help you?
+2023-09-12 20:00:59,938:INFO: Answering module over.
+2023-09-12 20:00:59,938:INFO: Answering module over.
+2023-09-12 20:01:09,801:INFO: Start answering based on prompt: What is this document about?.
+2023-09-12 20:01:09,801:INFO: Start answering based on prompt: What is this document about?.
+2023-09-12 20:01:09,802:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 20:01:09,802:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 20:01:14,318:INFO: The returned answer is: 
+Answer: This document is part of a series of documents approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to and Regulation 7 of the Building Regulations 2010 (SI 2010/2214) for England and Wales. It provides guidance on meeting the requirements imposed by Schedule 1 to the Building Regulations on materials and workmanship. It also includes a list of all the documents that have been approved and issued by the Secretary of State for this purpose.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 20:01:14,318:INFO: The returned answer is: 
+Answer: This document is part of a series of documents approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to and Regulation 7 of the Building Regulations 2010 (SI 2010/2214) for England and Wales. It provides guidance on meeting the requirements imposed by Schedule 1 to the Building Regulations on materials and workmanship. It also includes a list of all the documents that have been approved and issued by the Secretary of State for this purpose.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 20:01:14,321:INFO: Answering module over.
+2023-09-12 20:01:14,321:INFO: Answering module over.
+2023-09-12 20:01:33,955:INFO: Start answering based on prompt: give the List of approved document?.
+2023-09-12 20:01:33,955:INFO: Start answering based on prompt: give the List of approved document?.
+2023-09-12 20:01:33,956:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 20:01:33,956:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 20:01:42,056:INFO: The returned answer is: 
+Answer: The list of approved documents includes: 
+- Part A: Structure 
+- Part B: Fire Safety 
+- Part C: Site Preparation and Resistance to Contaminants and Moisture 
+- Part D: Toxic Substances 
+- Part E: Resistance to the Passage of Sound 
+- Part F: Ventilation 
+- Part G: Hygiene 
+- Part H: Drainage and Waste Disposal 
+- Part J: Combustion Appliances and Fuel Storage Systems 
+- Part K: Protection from Falling, Collision and Impact 
+- Part L: Conservation of Fuel and Power 
+- Part M: Access to and Use of Buildings 
+- Part N: Glazing - Safety in Relation to Impact, Opening and Cleaning 
+- Part P: Electrical Safety 
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 20:01:42,056:INFO: The returned answer is: 
+Answer: The list of approved documents includes: 
+- Part A: Structure 
+- Part B: Fire Safety 
+- Part C: Site Preparation and Resistance to Contaminants and Moisture 
+- Part D: Toxic Substances 
+- Part E: Resistance to the Passage of Sound 
+- Part F: Ventilation 
+- Part G: Hygiene 
+- Part H: Drainage and Waste Disposal 
+- Part J: Combustion Appliances and Fuel Storage Systems 
+- Part K: Protection from Falling, Collision and Impact 
+- Part L: Conservation of Fuel and Power 
+- Part M: Access to and Use of Buildings 
+- Part N: Glazing - Safety in Relation to Impact, Opening and Cleaning 
+- Part P: Electrical Safety 
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 20:01:42,068:INFO: Answering module over.
+2023-09-12 20:01:42,068:INFO: Answering module over.
+2023-09-12 20:06:40,856:INFO: Start answering based on prompt: hello.
+2023-09-12 20:06:40,856:INFO: Start answering based on prompt: hello.
+2023-09-12 20:06:40,857:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 20:06:40,857:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 20:06:43,112:INFO: The returned answer is: 
+Hello! I'm your personal Bot assistant for answering any questions about Merged Approved Documents of Building Regulations. I'm here to help you. Is there anything specific I can help you with?
+2023-09-12 20:06:43,112:INFO: The returned answer is: 
+Hello! I'm your personal Bot assistant for answering any questions about Merged Approved Documents of Building Regulations. I'm here to help you. Is there anything specific I can help you with?
+2023-09-12 20:06:43,114:INFO: Answering module over.
+2023-09-12 20:06:43,114:INFO: Answering module over.
+2023-09-12 20:06:52,401:INFO: Start answering based on prompt: What is this document about?.
+2023-09-12 20:06:52,401:INFO: Start answering based on prompt: What is this document about?.
+2023-09-12 20:06:52,403:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 20:06:52,403:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 20:06:56,720:INFO: The returned answer is: 
+Answer: This document is part of a series of documents approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to and Regulation 7 of the Building Regulations 2010 (SI 2010/2214) for England and Wales. It provides guidance on meeting the requirements imposed by Schedule 1 to the Building Regulations on materials and workmanship. It also includes a list of all the documents that have been approved and issued by the Secretary of State for this purpose.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 20:06:56,720:INFO: The returned answer is: 
+Answer: This document is part of a series of documents approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to and Regulation 7 of the Building Regulations 2010 (SI 2010/2214) for England and Wales. It provides guidance on meeting the requirements imposed by Schedule 1 to the Building Regulations on materials and workmanship. It also includes a list of all the documents that have been approved and issued by the Secretary of State for this purpose.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 20:06:56,722:INFO: Answering module over.
+2023-09-12 20:06:56,722:INFO: Answering module over.
+2023-09-12 20:07:06,303:INFO: Start answering based on prompt: Give th list of Approved documents?.
+2023-09-12 20:07:06,303:INFO: Start answering based on prompt: Give th list of Approved documents?.
+2023-09-12 20:07:06,304:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 20:07:06,304:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-12 20:07:11,305:INFO: The returned answer is: 
+Answer: The list of Approved Documents of Building Regulations for England are: 
+
+- Part A: Structure 
+- Part B: Fire Safety 
+- Part C: Site Preparation and Resistance to Contaminants and Moisture 
+- Part D: Toxic Substances 
+- Part E: Resistance to the Passage of Sound 
+- Part F: Ventilation 
+- Part G: Hygiene 
+- Part H: Drainage and Waste Disposal 
+- Part J: Combustion Appliances and Fuel Storage Systems 
+- Part K: Protection from Falling, Collision and Impact 
+- Part L: Conservation of Fuel and Power 
+- Part M: Access to and Use of Buildings 
+- Part N: Glazing - Safety in Relation to Impact, Opening and Cleaning 
+- Part P: Electrical Safety 
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 20:07:11,305:INFO: The returned answer is: 
+Answer: The list of Approved Documents of Building Regulations for England are: 
+
+- Part A: Structure 
+- Part B: Fire Safety 
+- Part C: Site Preparation and Resistance to Contaminants and Moisture 
+- Part D: Toxic Substances 
+- Part E: Resistance to the Passage of Sound 
+- Part F: Ventilation 
+- Part G: Hygiene 
+- Part H: Drainage and Waste Disposal 
+- Part J: Combustion Appliances and Fuel Storage Systems 
+- Part K: Protection from Falling, Collision and Impact 
+- Part L: Conservation of Fuel and Power 
+- Part M: Access to and Use of Buildings 
+- Part N: Glazing - Safety in Relation to Impact, Opening and Cleaning 
+- Part P: Electrical Safety 
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-12 20:07:11,315:INFO: Answering module over.
+2023-09-12 20:07:11,315:INFO: Answering module over.
+2023-09-13 00:21:56,573:INFO: Logger Created
+2023-09-16 19:34:23,609:INFO: Logger Created
+2023-09-16 19:49:30,859:INFO: Start answering based on prompt: hello.
+2023-09-16 19:49:30,861:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-16 19:49:32,863:INFO: The returned answer is: 
+Hello! I'm your personal Bot assistant for answering any questions about Merged Approved Documents of Building Regulations. How can I help you?
+2023-09-16 19:49:32,864:INFO: Answering module over.
+2023-09-16 19:49:43,280:INFO: Start answering based on prompt: What is this document about?.
+2023-09-16 19:49:43,284:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-16 19:49:46,800:INFO: The returned answer is: 
+This document is part of a series of documents approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to and Regulation 7 of the Building Regulations 2010 (SI 2010/2214) for England and Wales. It provides guidance on materials and workmanship, prevention of the contamination of water, resistance to the passage of sound, access to and use of buildings, and the conservation of fuel and power. At the back of this document is a list of all the documents that have been approved and issued by the Secretary of State for this purpose.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-16 19:49:46,805:INFO: Answering module over.
+2023-09-16 19:50:08,547:INFO: Start answering based on prompt: Give the list of Approved Documents?.
+2023-09-16 19:50:08,549:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-16 19:50:14,138:INFO: The returned answer is: 
+Answer: The list of Approved Documents is as follows: 
+
+- Approved Document M Access to and use of buildings Volume 1: Dwellings Volume 2: Buildings other than dwellings
+- Approved Document P Electrical safety – Dwellings
+- Approved Document A Structure
+- Approved Document Q Security – Dwellings
+- Approved Document B Fire safety Volume 1: Dwellings Volume 2: Buildings other than dwellings
+- Approved Document R Physical infrastructure for high-speed electronic communications networks
+- Approved Document C Site preparation and resistance to contaminants and moisture
+- Approved Document 7 Materials and workmanship
+- Approved Document D Toxic substances
+- Approved Document E Resistance to the passage of sound
+- Approved Document F Ventilation
+- Approved Document G Sanitation, hot water safety and water efficiency
+
+An approved document is a publication that has been approved and issued by the Secretary of State for the purpose of providing practical guidance with respect to the requirements of Schedule 1 to and Regulation 7 of the Building Regulations 2010 (SI 2010/2214) for England and Wales.
+
+Is there anything else I can help you with?
+2023-09-16 19:50:14,152:INFO: Answering module over.
+2023-09-16 19:50:36,969:INFO: Start answering based on prompt: what does Part D focus on?.
+2023-09-16 19:50:36,971:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-16 19:50:39,737:INFO: The returned answer is: 
+Answer: Part D of the Merged Approved Documents of Building Regulations focuses on the protection from moisture and contaminants such as radon, soundproofing of service penetrations, dwelling ventilation rates, energy efficient lighting, and the height of socket-outlets and switches.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-16 19:50:39,741:INFO: Answering module over.
+2023-09-16 19:51:17,164:INFO: Start answering based on prompt: What are its Pros and cons?.
+2023-09-16 19:51:17,165:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-16 19:51:20,282:INFO: The returned answer is: 
+Pros of Merged Approved Documents of Building Regulations:
+- Provides guidance on the principles that should be applied when proposing work on historic buildings.
+- Provides guidance on how to reduce the rate at which gas seeps into buildings.
+- Provides guidance on how to disperse radon by ventilation strategies.
+- Aims to improve accessibility while preserving the character of the historic building.
+- Provides guidance on suitable accommodation for people in wheelchairs, or people with other disabilities, in audience or spectator seating.
+
+Cons of Merged Approved Documents of Building Regulations:
+- May not be suitable for all types of buildings.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-16 19:51:20,285:INFO: Answering module over.
+2023-09-16 19:51:50,092:INFO: Start answering based on prompt: What are Dwellings  Pros and cons?.
+2023-09-16 19:51:50,094:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-16 19:51:54,286:INFO: The returned answer is: 
+Pros of Dwellings:
+- Direct access between the commercial space and the living accommodation.
+- The living accommodation comprises a substantial proportion of the total area of the unit.
+- Suitable sleeping area for one person.
+- Clear access route and clear access zone.
+- Separate and self-contained premises constructed or adapted for residential purposes.
+
+Cons of Dwellings:
+- A large non-domestic building that contains a small flat for a manager is not treated as a dwelling.
+- A dwelling that contains a room used as an office or utility space is still treated as a dwelling.
+- A maximum of six people living together as a single household, including where care is provided for residents.
+- Any part of a roof pitched at an angle of more than 70 degrees to the horizontal if that part of the roof adjoins a space within the building to which persons have access, but not access only for the purpose of carrying out repairs or maintenance.
+
+I hope this answers your question. Is there anything else I can help you with?
+2023-09-16 19:51:54,296:INFO: Answering module over.
+2023-09-16 19:53:49,246:INFO: Start answering based on prompt: What are its clauses?.
+2023-09-16 19:53:49,249:INFO: The top 4 chunks are considered to answer the user's query.
+2023-09-16 19:53:54,684:INFO: Answering module over.
