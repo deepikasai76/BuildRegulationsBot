@@ -1,3 +1,5 @@
+
+
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
 from langchain.text_splitter import CharacterTextSplitter
@@ -5,6 +7,8 @@ from langchain import OpenAI, VectorDBQA
 from langchain.document_loaders import DirectoryLoader
 from langchain.prompts import PromptTemplate
 from langchain.chains.question_answering import load_qa_chain
+import streamlit as st
+from streamlit_chat import message
 import os
 import nltk
 import config
@@ -13,22 +17,12 @@ import chromadb
 from chromadb.config import Settings
 import streamlit as st
 import app
-import django
 
-__import__('pysqlite3')
-import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-    }
-}
 # # Set the page configuration
 # st.set_page_config(page_title="🦜️🔗Langchain PDF Chatbot 🤖", layout='centered')
 
 
-OPENAI_API_KEY = st.sidebar.text_input("Type your OpenAI API key and press ENTER", placeholder="YOUR_API_KEY")
+# OPENAI_API_KEY = st.sidebar.text_input("Type your OpenAI API key and press ENTER", placeholder="YOUR_API_KEY")
 
 # Creating a logger object
 logger = logging.getLogger(__name__)
@@ -58,7 +52,7 @@ text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
 texts = text_splitter.split_documents(documents)
 
 # Create a vector store from the chunks using an OpenAIEmbeddings object and a Chroma object
-embeddings = OpenAIEmbeddings(openai_api_key= OPENAI_API_KEY)
+embeddings = OpenAIEmbeddings(openai_api_key= config.OPENAI_API_KEY)
 docsearch = Chroma.from_documents(texts, embeddings)
 
 # Create a persistent client for the Chroma database
